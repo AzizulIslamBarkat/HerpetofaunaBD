@@ -1,0 +1,39 @@
+body{
+    background-color: #e8dcb8;
+}
+#main-heading{
+    text-align: center;
+}
+#sub-heading{
+    text-align: center;
+}
+#search-text{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 2rem;
+    background-color: #15dc3455;
+    color: black;
+    border-radius: 8px;
+    text-align: center;
+}
+
+li{
+    margin-bottom: 1rem;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.highlight{
+    background-color: #add8e6;
+}
+@media screen and (min-width:700px) {
+    #search-text{
+        width: 50%;
+    }
+    a{
+        font-size: 1.1rem;
+    }
+}

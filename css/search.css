@@ -1,0 +1,31 @@
+#main-heading{
+    text-align: center;
+    color: #ddd;
+}
+
+#count-wrapper{
+    text-align: center;
+    color: #ddd;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(80, 255, 153);
+    font-size: x-large;
+}
+.link-card{
+    position: relative;
+    width: 80%;
+    border: #00B4CC solid;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+body{
+    background-image: url('/images/bg_cropped_dark.JPG');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
