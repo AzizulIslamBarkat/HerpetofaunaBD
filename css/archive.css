@@ -29,6 +29,9 @@ a{
 .highlight{
     background-color: #add8e6;
 }
+#footer{
+    text-align: center;
+}
 @media screen and (min-width:700px) {
     #search-text{
         width: 50%;
