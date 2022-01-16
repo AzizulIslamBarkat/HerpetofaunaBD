@@ -387,8 +387,8 @@
             "link":"https://portals.iucn.org/library/sites/library/files/documents/RL-549.3-003-v.4.pdf"
         },
         {
-            "title":"Archive Title 4",
-            "link":"Archive Link 5"
+            "title":"Herpetofaunal species richness in the tropical forests of Bangladesh",
+            "link":"https://www.researchgate.net/publication/320498601_Herpetofaunal_species_richness_in_the_tropical_forests_of_Bangladesh"
         }
         
     ],
@@ -462,8 +462,8 @@
             "link":"https://www.pstu.ac.bd/files/publications/1543472538.pdf"
         },
         {
-            "title":"Archive Title 4",
-            "link":"Archive Link 5"
+            "title":"Status, Distribution and Conservation of the Amphibians of Bangladesh",
+            "link":"https://www.researchgate.net/publication/320504521_Status_Distribution_and_Conservation_of_the_Amphibians_of_Bangladesh"
         }
     ],
     "2013":[
@@ -510,10 +510,6 @@
         {
             "title":"Clinical Aspects of Green Pit Viper Bites in Bangladesh: A Study on 40 Patients",
             "link":"https://apjmt.mums.ac.ir/article_1670.html"
-        },
-        {
-            "title":"Archive Title 6",
-            "link":"Archive Link 6"
         }
     ],
   "2012":[
@@ -568,6 +564,10 @@
     {
         "title":"The impact of snake bite on household economy in Bangladesh",
         "link":"https://journals.sagepub.com/doi/abs/10.1258/td.2011.110137"
+    },
+    {
+        "title":"Molecular phylogeny of the softshell turtle genus Nilssonia revisited, with first records of N. formosa for China and wild-living N. nigricans for Bangladesh",
+        "link":"https://www.senckenberg.de/wp-content/uploads/2019/08/06_vertebrate_zoology_62-2_liebing_et_al_261-272-1.pdf"
     }
 
 ],"2011":[
@@ -578,10 +578,6 @@
     {
         "title":"Geographic Distribution. FEJERVARYA ASMATI (Bangladeshi Cricket Frog)",
         "link":"https://www.researchgate.net/publication/281259710_Geographic_Distribution_FEJERVARYA_ASMATI_Bangladeshi_Cricket_Frog"
-    },
-    {   
-        "title":"Archive Title 6",
-        "link":"Archive Link 6"
     }
 ],
 
@@ -611,8 +607,16 @@
         "link":"https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0000860"
     },
     {
-        "title":"Archive Title",
-        "link":"Archive Link"
+        "title":"First record of amphiesma venningi (wall, 1910) (serpentes, colubridae, natricinae) from bangladesh, with notes on its taxonomy, natural history, biogeography and other sympatric species",
+        "link":"https://www.researchgate.net/publication/287096473_First_record_of_amphiesma_venningi_wall_1910_serpentes_colubridae_natricinae_from_bangladesh_with_notes_on_its_taxonomy_natural_history_biogeography_and_other_sympatric_species"
+    },
+    {
+        "title":"Le Trionyx noirâtre, la Tortue de Bostami Nilssonia nigricans (Anderson 1875) (Ang : Black Softshell Turtle, Bostami Turtle)",
+        "link":"https://moam.info/le-trionyx-noiratre-la-tortue-de-bostami-nilssonia-nigricans-_59d2cfd31723dd0169dc6a41.html"
+    },
+    {
+        "title":"COLUBRID SNAKE Lycodon zawi (SERPENTES: COLUBRIDA FROM LAWACHARA NATIONAL PARK IN BANGLADESH )",
+        "link":"https://www.researchgate.net/publication/228799017_Colubrid_snake_Lycodon_zawi_Serpentes_Colubridae_from_Lwachara_National_Park_in_Bangladesh"
     }
 ],
 "2009":[
@@ -623,12 +627,47 @@
     {
         "title":"A catalogue of amphibians and reptiles in the collection of Jahangirnagar University, Dhaka, Bangladesh",
         "link":"https://www.researchgate.net/publication/259385334_A_catalogue_of_amphibians_and_reptiles_in_the_collection_of_Jahangirnagar_University_Dhaka_Bangladesh"
+    },
+    {
+        "title":"Geographic distribution: Rhacophorus bipunctatus (Twin-spotted Tree Frog)",
+        "link":"https://www.researchgate.net/publication/254862907_Rhacophorus_bipunctatus"
+    },
+    {
+        "title":"Geographic distribution: Calotes emma (Spiny-headed Forest Calotes)",
+        "link":"https://www.researchgate.net/publication/254862908_Calotes_emma"
     }
 ],
 "2008":[
     {
         "title":"Anti-snake venom: use and adverse reaction in a snake bite study clinic in Bangladesh",
         "link":"https://www.scielo.br/j/jvatitd/a/vqFZkQySFdNVRyxGdLzVSnn/?lang=en       "
+    },
+    {
+        "title":"A herpetofaunal collection from the Chittagong Hill tracts, Bangladesh, with two new species records for the country.",
+        "link":"https://www.researchgate.net/publication/260639746_A_herpetofaunal_collection_from_the_Chittagong_Hill_tracts_Bangladesh_with_two_new_species_records_for_the_country"
+    }
+],
+
+"2007":[
+    {
+        "title":"Genetic evidence for wild-living Aspideretes nigricans and a molecular phylogeny of South Asian softshell turtles (Reptilia: Trionychidae: Aspideretes, Nilssonia)",
+        "link":"https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-6409.2007.00282.x"
+    },
+    {
+        "title":"Geographic Distribution. Lygosoma bowringii (Bowring's supple skink).",
+        "link":"https://www.researchgate.net/publication/260639747_Geographic_Distribution_Lygosoma_bowringii_Bowring's_supple_skink"
+    },
+    {
+        "title":"Geographic Distribution. Sylvirana leptoglossa (Long-tongued frog).",
+        "link":"https://www.researchgate.net/publication/260639750_Geographic_Distribution_Sylvirana_leptoglossa_Long-tongued_frog"
+    },
+    {
+        "title":"Geographic Distribution. Kaloula taprobanica (Sri Lankan bull frog).",
+        "link":"https://www.researchgate.net/publication/260639834_Geographic_Distribution_Kaloula_taprobanica_Sri_Lankan_bull_frog"
+    },
+    {
+        "title":"Geographic Distribution. Kalophrynus interlineatus (Striped sticky frog).",
+        "link":"https://www.researchgate.net/publication/260639836_Geographic_Distribution_Kalophrynus_interlineatus_Striped_sticky_frog"
     }
 ],
 "2006":[
