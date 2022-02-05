@@ -21,13 +21,18 @@
     },
     {
         "Title":"Saltwater Crocodile",
-        "Tags":["crocodile","saltwater crocodile","reptile","Crocodylidae","কুমির","লোনাপানির কুমির","crocodylus","reptile","Crocodylia","kumir","cumir","crocodylus porosus"],
+        "Tags":["crocodile","saltwater crocodile","reptile","crocodylidae","কুমির","লোনাপানির কুমির","crocodylus","reptile","crocodylia","kumir","cumir","crocodylus porosus"],
         "Link":"/Reptile/SaltwaterCrocodile/"
     },
     {
         "Title":"Gharial",
-        "Tags":["gharial","gavialis","gavialis gangeticus","gavialidae","ঘড়িয়াল","crocodylia","crocodile","reptile","ghorial","Crocodylia"],
+        "Tags":["gharial","gavialis","gavialis gangeticus","gavialidae","ঘড়িয়াল","crocodylia","crocodile","reptile","ghorial","crocodylia"],
         "Link":"/Reptile/Gharial/"
+    },
+    {
+        "Title":"Freshwater Crocodile / Mugger",
+        "Tags":["mugger","crocodile","crocodylus palustris ","crocodylidae","কুমির","crocodylia","crocodile","reptile","ghorial","মিঠাপানির কুমির","crocodylus","kumir","cumir"],
+        "Link":"/Reptile/FreshwaterCrocodile/"
     }
     
 ]
