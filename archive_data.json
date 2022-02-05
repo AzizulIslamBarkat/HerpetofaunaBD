@@ -101,6 +101,10 @@
         {
             "title":"Snake Morphometric Basics",
             "link":"https://www.researchgate.net/publication/349708271_Snake_Morphometric_Basics"
+        },
+        {
+            "title":"Characterization of Zoonotic Bacteria from Captive Crocodiles in Bangladesh",
+            "link":"https://innspub.net/ijb/characterization-of-zoonotic-bacteria-from-captive-crocodiles-in-bangladesh/"
         }
     ],
     "2020":[
@@ -263,6 +267,10 @@
         {
             "title":"First record of Uperodon globulosus (Günther, 1864) (Anura, Microhylidae) in Rajshahi Division, Bangladesh",
             "link":"https://checklist.pensoft.net/article/20571/"
+        },
+        {
+            "title":"Population status and spatial distribution of saltwater crocodile, Crocodylus porosus in the Sundarbans of Bangladesh",
+            "link":"https://www.banglajol.info/index.php/BJZ/article/view/37624#:~:text=The%20Saltwater%20Crocodile%2C%20Crocodylus%20porosus,mangrove%20forest%20of%20the%20country.&text=Based%20on%20this%20estimate%2C%20it,occur%20in%20the%20Bangladesh%20Sundarbans."
         }
     ],
     "2017":[
@@ -305,6 +313,10 @@
         {
             "title":"Public Attitudes toward Monitor Lizards (Reptilia: Varanidae): A Conservation Challenge in the Human-dominated Ecosystems of Bangladesh",
             "link":"https://www.journalarrb.com/index.php/ARRB/article/view/25981"
+        },
+        {
+            "title":"THREATS TO OLIVE RIDLEY TURTLES ON THE SUNDARBANS COAST OF BANGLADESH",
+            "link":"https://www.researchgate.net/publication/316396695_THREATS_TO_OLIVE_RIDLEY_TURTLES_ON_THE_SUNDARBANS_COAST_OF_BANGLADESH"
         }
     ],
     "2016":[
@@ -648,6 +660,14 @@
     {
         "title":"Molecular phylogeny of the softshell turtle genus Nilssonia revisited, with first records of N. formosa for China and wild-living N. nigricans for Bangladesh",
         "link":"https://www.senckenberg.de/wp-content/uploads/2019/08/06_vertebrate_zoology_62-2_liebing_et_al_261-272-1.pdf"
+    },
+    {
+        "title":"The role of spiritual beliefs in conserving wildlife species in religious shrines of Bangladesh",
+        "link":"https://www.tandfonline.com/doi/abs/10.1080/14888386.2012.694596?journalCode=tbid20"
+    },
+    {
+        "title":"Escherichia coli septicemia concurrent with mycotic infection in captive salt water crocodiles in Bangladesh",
+        "link":"https://www.koreascience.or.kr/article/JAKO201215734995572.view?orgId=anpor&hide=breadcrumb,journalinfo"
     }
 
 ],"2011":[
@@ -725,6 +745,10 @@
     {
         "title":"A herpetofaunal collection from the Chittagong Hill tracts, Bangladesh, with two new species records for the country.",
         "link":"https://www.researchgate.net/publication/260639746_A_herpetofaunal_collection_from_the_Chittagong_Hill_tracts_Bangladesh_with_two_new_species_records_for_the_country"
+    },
+    {
+        "title":"INVESTIGATION ON THE STATUS, DISTRIBUTION AND CONSERVATION PROBLEMS OF THE GHARIAL (Gavialis gangeticus) IN BANGLADESH",
+        "link":"https://www.researchgate.net/publication/342717349_INVESTIGATION_ON_THE_STATUS_DISTRIBUTION_AND_CONSERVATION_PROBLEMS_OF_THE_GHARIAL_Gavialis_gangeticus_IN_BANGLADESH"
     }
 ],
 
@@ -764,6 +788,16 @@
     {
         "title":"Archive Title 4",
         "link":"Archive Link 5"
+    }
+],
+"2003":[
+    {
+        "title":"POPULATION STATUS AND DISTRIBUTION OF GHARIAL [Gavialis gangeticus (GMELIN)] IN BANGLADESH",
+        "link":"https://www.researchgate.net/publication/342717202_POPULATION_STATUS_AND_DISTRIBUTION_OF_GHARIAL_Gavialis_gangeticus_GMELIN_IN_BANGLADESH"
+    },
+    {
+        "title":"THE FOOD CONSUMPTION OF GHARIAL, GAVIALIS GANGETICUS (GMELIN), (CROCODILIA: GAVIALIDAE) IN CAPTIVITY",
+        "link":"https://www.researchgate.net/publication/342717194_THE_FOOD_CONSUMPTION_OF_GHARIAL_GAVIALIS_GANGETICUS_GMELIN_CROCODILIA_GAVIALIDAE_IN_CAPTIVITY"
     }
 ]
 }
