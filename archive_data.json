@@ -7,6 +7,10 @@
         {
             "title":"First record of Leschenault's Leaf-toed Gecko, Hemidactylus leschenaultii Duméril & Bibron 1836, from the northwestern part of Bangladesh           ",
             "link":"https://journals.ku.edu/reptilesandamphibians/article/view/15964"
+        },
+        {
+            "title":"Breeding Biology of Northern River Terrapin Batagur Baska in Captivity in Bangladesh",
+            "link":"https://www.banglajol.info/index.php/DUJBS/article/view/57917"
         }
     ],
     "2021":[
@@ -560,6 +564,10 @@
         {   
             "title":"Trans-boundary Sanctuary between Bangladesh and India for Gharial (Gavialis gangeticus) Conservation",
             "link":"https://www.researchgate.net/publication/280993203_Trans-boundary_Sanctuary_between_Bangladesh_and_India_for_Gharial_Gavialis_gangeticus_Conservation"
+        },
+        {
+            "title":"Marketing of Freshwater Turtles and Tortoises in Different Markets of Rangpur Division, Bangladesh",
+            "link":"https://www.idosi.org/gv/gv13(4)14/9.pdf"
         }
     ],
     "2013":[
@@ -606,6 +614,10 @@
         {
             "title":"Clinical Aspects of Green Pit Viper Bites in Bangladesh: A Study on 40 Patients",
             "link":"https://apjmt.mums.ac.ir/article_1670.html"
+        },
+        {
+            "title":"Present status of conservation and management of sea turtle in Coxs Bazar district of Bangladesh",
+            "link":"https://www.banglajol.info/index.php/BJAS/article/view/18493"
         }
     ],
   "2012":[
@@ -672,6 +684,10 @@
     {
         "title":"Escherichia coli septicemia concurrent with mycotic infection in captive salt water crocodiles in Bangladesh",
         "link":"https://www.koreascience.or.kr/article/JAKO201215734995572.view?orgId=anpor&hide=breadcrumb,journalinfo"
+    },
+    {
+        "title":"Food habits and feeding behaviour of spotted flapshell turtle, Lissemys punctata (Lacepede, 1788) in Bangladesh",
+        "link":"https://www.banglajol.info/index.php/BJZ/article/view/14313"
     }
 
 ],"2011":[
@@ -721,6 +737,10 @@
     {
         "title":"COLUBRID SNAKE Lycodon zawi (SERPENTES: COLUBRIDA FROM LAWACHARA NATIONAL PARK IN BANGLADESH )",
         "link":"https://www.researchgate.net/publication/228799017_Colubrid_snake_Lycodon_zawi_Serpentes_Colubridae_from_Lwachara_National_Park_in_Bangladesh"
+    },
+    {
+        "title":"Breeding biology aspects of spotted flapshell Turtle, Lissemys punctata (Lacepede 1788), in Bangladesh",
+        "link":"https://www.sciencedirect.com/science/article/pii/S1319562X09000461"
     }
 ],
 "2009":[
@@ -806,6 +826,12 @@
     {
         "title":"THE FOOD CONSUMPTION OF GHARIAL, GAVIALIS GANGETICUS (GMELIN), (CROCODILIA: GAVIALIDAE) IN CAPTIVITY",
         "link":"https://www.researchgate.net/publication/342717194_THE_FOOD_CONSUMPTION_OF_GHARIAL_GAVIALIS_GANGETICUS_GMELIN_CROCODILIA_GAVIALIDAE_IN_CAPTIVITY"
+    }
+],
+"1990":[
+    {
+        "title":"The trade in freshwater turtles from Bangladesh",
+        "link":"https://www.cambridge.org/core/journals/oryx/article/trade-in-freshwater-turtles-from-bangladesh/C938673EB1B3C3503DC43A9A7E9927F6"
     }
 ]
 }
