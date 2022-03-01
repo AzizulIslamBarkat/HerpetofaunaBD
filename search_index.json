@@ -36,7 +36,7 @@
     },
     {
         "Title":"Marbled Toad/ Indus Valley Toad",
-        "Tags":["toad","frog","duttaphrynus stomaticus","bufonidae","kuno bang","anura","marbled toad","kuno","amphiabia","bang","indus valley toad","মার্বেল","মার্বেল কুনো ব্যাঙ","duttaphrynus","কুনো ব্যাঙ","ব্যাঙ"],
+        "Tags":["toad","frog","duttaphrynus stomaticus","bufonidae","kuno bang","anura","marbled toad","kuno","amphiabia","bang","indus valley toad","মার্বেল","মার্বেল কুনো ব্যাঙ","duttaphrynus","কুনো ব্যাঙ","ব্যাঙ","bufo"],
         "Link":"/Amphibia/MarbledToad/"
     },
     {
@@ -53,6 +53,16 @@
         "Title":"Twin-spotted Tree Frog",
         "Tags":["tree frog","frog","rhacophorus","rhacophoridae","gecho bang","anura","twin spotted tree frog","gecho","amphiabia","bang","two spotted tree frog","গেছো ","গেছো ব্যাঙ","rhacophorus bipunctatus","লাল পা গেছো ব্যাঙ","ব্যাঙ"],
         "Link":"/Amphibia/TwinSpottedTreeFrog/"
+    },
+    {
+        "Title":"Common Asian Toad/ Common Indian Toad",
+        "Tags":["toad","frog","duttaphrynus melanostictus","bufonidae","kuno bang","anura","common asian toad","kuno","amphiabia","bang","indian toad","asian toad","common toad","duttaphrynus","কুনো ব্যাঙ","ব্যাঙ","bufo"],
+        "Link":"/Amphibia/CommonAsianToad/"
+    },
+    {
+        "Title":"Indain Bull Frog",
+        "Tags":["indain bull frog","frog","hoplobatrachus tigerinus","bull frog","hoplobatrachus","anura","asian bull frog","kola bang","amphiabia","bang","সোনা ব্যাঙ","dicroglossidae","কোলা ব্যাঙ"," bang","সোনা ব্যাঙ","ব্যাঙ"],
+        "Link":"/Amphibia/IndianBullFrog/"
     }
     
 ]
