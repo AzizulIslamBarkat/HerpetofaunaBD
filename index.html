@@ -14,6 +14,7 @@
     />
     <link rel="stylesheet" href="css/fa_all.min.css">
     <link rel="stylesheet" href="css/hob.css">
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
     <link rel="icon" href="./favicon.png" type="image/gif" sizes="16x16">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <script src="https://kit.fontawesome.com/78d5864ec7.js" crossorigin="anonymous"></script>
@@ -32,9 +33,12 @@
             </button>
           </div>
           <div id="buttons">
-            <button id="amphibia-btn" class="home-btn">Amphibia</button>
-            <button id="reptile-btn" class="home-btn">Reptile</button>
-            <button id="archive-btn" class="home-btn">Archive</button>
+            <!-- <a href="/Amphibia/" id="amphibia-btn" class="home-btn"><span>Amphibia</span></a>
+            <a href="/Reptile/" id="reptile-btn" class="home-btn">Reptile</a>
+            <a href="/archive.html" id="archive-btn" class="home-btn">Archive</a> -->
+            <a href="/Amphibia/" id="amphibia-btn" class="btn btn-outline-info btn-sm"><span>Amphibia</span></a>
+            <a href="/Reptile/" id="reptile-btn" class="btn btn-outline-info btn-sm">Reptile</a>
+            <a href="/archive.html" id="archive-btn" class="btn btn-outline-info btn-sm">Archive</a>
           </div>
        </div>
       </div>
@@ -42,12 +46,20 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=AzizulIslamBarkat.HerpetofaunaBD" alt="HerpetofaunaBD :: Visitor's Count" />
       </div>
       <div id="contactUS">
-        <p><i class="fas fa-envelope-square"></i> <code>herpetofaunabd@gmail.com</code></p>
+        <p><i class="fas fa-envelope-square"></i> <code class="white__">herpetofaunabd@gmail.com</code></p>
       </div>
       <div id="fbshare">
         <div class="fb-share-button" data-href="https://www.herpetofaunabd.live/" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.herpetofaunabd.live%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
       </div>
       <script src="/js/home.js"></script>
+      <script>
+        if(navigator.userAgent.includes("Windows")){
+          na=document.getElementsByClassName('btn')
+          for(i=0;i<na.length;i++){
+            na[i].className=na[i].className.replace('btn-sm','')
+          }
+        }
+      </script>
     </body>
     </html>
     

@@ -20,30 +20,3 @@ function search(){
         }
     }
 }
-
-document.getElementById("amphibia-btn").addEventListener('click',(ev)=>{
-    loc=window.location.href.replace("index.html","")
-    if(loc[loc.length-1]==='/'){
-        window.location.href=loc+'Amphibia/'
-    }else{
-        window.location.href=loc+'/Amphibia/'
-    }
-})
-
-document.getElementById("reptile-btn").addEventListener('click',(ev)=>{
-    loc=window.location.href.replace("index.html","")
-    if(loc[loc.length-1]==='/'){
-        window.location.href=loc+'Reptile/'
-    }else{
-        window.location.href=loc+'/Reptile/'
-    }
-})
-
-document.getElementById("archive-btn").addEventListener('click',(ev)=>{
-    loc=window.location.href.replace("index.html","")
-    if(loc[loc.length-1]==='/'){
-        window.location.href=loc+'archive.html'
-    }else{
-        window.location.href=loc+'/archive.html'
-    }
-})

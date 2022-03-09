@@ -23,7 +23,7 @@ body{
   padding: 5px;
   height: 2rem;
   width: 100%;
-  border-radius: 1rem 0 0 1rem;
+  border-radius: 0.3rem 0 0 0.3rem;
   outline: none;
   color: black;
 }
@@ -39,7 +39,7 @@ body{
   background: #00B4CC;
   text-align: center;
   color: #fff;
-  border-radius: 0 1rem 1rem 0;
+  border-radius: 0 0.3rem 0.3rem 0;
   cursor: pointer;
   font-size: 20px;
 }
@@ -90,8 +90,10 @@ body{
   background-color: transparent;
   padding: 0 1rem;
   cursor: pointer;
+  text-decoration: none;
+  margin: auto auto;
+  font-size: 0.9rem;
 }
-
 #contactUS{
   color: white;
   position: absolute;
@@ -108,7 +110,9 @@ body{
   position: absolute;
   bottom: 1rem;
 }
-
+.white__{
+  color: white;
+}
 @media only screen and (min-width: 768px) {
   .wrap{
       top:12rem;
