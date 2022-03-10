@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://herpetofaunabd.live/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Amphibia/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Amphibia/MarbledToad/</loc>
+  </url>
+  <url>
     <loc>https://herpetofaunabd.live/archive.html</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Amphibia/CommonAsianToad/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Amphibia/AsianPaintedFrog/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Amphibia/TwinSpottedTreeFrog/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Amphibia/IndianBullFrog/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/SpottedLitterSkink/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/CommonKukri/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/RedCoralKukri/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/OrnateFlyingSnake/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/RusselsViper/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/FreshwaterCrocodile/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/SaltwaterCrocodile/</loc>
+  </url>
+  <url>
+    <loc>https://herpetofaunabd.live/Reptile/Gharial/</loc>
   </url>
 </urlset>
