@@ -1,11 +1,11 @@
 [
     {
-        "Title":"Common Kukri Snake",
-        "Tags":["kukri","snake","colubridae","common kukri","reptile","উদয়কাল","oligodon","oligodon arnensis","banded kukri","banded"],
-        "Link":"/Reptile/CommonKukri/"
+        "Title":"Russell's Kukri Snake",
+        "Tags":["kukri","snake","colubridae","common kukri","reptile","উদয়কাল","oligodon","oligodon arnensis","oligodon russelius","banded kukri","banded"],
+        "Link":"/Reptile/RussellsKukri/"
     },
     {
-        "Title":"Russel's Viper",
+        "Title":"Russell's Viper",
         "Tags":["russels viper","snake","viper","russel's viper","reptile","চন্দ্রবোড়া","চন্দ্রোবরা","চন্দ্রবরা","daboia","daboia russelli","viper","russel's"],
         "Link":"/Reptile/RusselsViper/"
     },

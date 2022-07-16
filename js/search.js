@@ -43,7 +43,7 @@ function renderLink(obj){
 
 function plotResults(results){
   let plot_position=document.getElementById("results-plot")
-  innerHTML=''
+  innerHTML='<p id="animal-profile">Animal Profiles</p><br>'
   for(i=0;i<results.length;i++){
     innerHTML+=renderLink(results[i])
   }
