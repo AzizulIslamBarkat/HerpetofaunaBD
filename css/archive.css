@@ -32,6 +32,13 @@ a{
 #footer{
     text-align: center;
 }
+
+#homelogo{
+    position: absolute;
+    height:45px;
+    top: 15px;
+    left: 15px;
+}
 @media screen and (min-width:700px) {
     #search-text{
         width: 50%;
