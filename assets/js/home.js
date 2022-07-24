@@ -1,0 +1,22 @@
+document.addEventListener('keyup',(ev)=>{
+    if(ev.keyCode===9){
+        document.getElementById("search-field").focus();
+    }
+})
+document.getElementById("search-field").addEventListener("keyup",(ev)=>{
+    if(ev.keyCode===13){
+        document.getElementById("btn").onclick()
+    }
+})
+function search(){
+    text=document.getElementById("search-field").value
+    if(text!=""){
+        localStorage.setItem('search-text',text);
+        loc=window.location.href.replace("index.html","")
+        if(loc[loc.length-1]==='/'){
+            window.location.href=loc+'results.html'
+        }else{
+            window.location.href=loc+'/results.html'
+        }
+    }
+}
