@@ -19,6 +19,12 @@ body{
     text-align: center;
 }
 
+#search-area{
+    display: inline;
+    position: relative;
+    left: 0;
+}
+
 li{
     margin-bottom: 1rem;
 }
