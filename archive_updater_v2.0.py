@@ -7,7 +7,7 @@ def isACombOf(i):
             return False,char
     return True,""
 
-with open("./archive_data_categorized.json") as handle:
+with open("./archive_data_catagorized.json") as handle:
     archiveData=json.load(handle)
 
 try:
@@ -63,8 +63,11 @@ Your Choice: \
                 "link":link,
                 "category":cat
             })
+            with open("./archive_data_catagorized.json","w") as handle:
+                json.dump(archiveData,handle,indent=4)
 except KeyboardInterrupt:
     print("[INFO] Writing to the file buffer.")
-    with open("./archive_data_categorized__.json","w") as handle:
+    with open("./archive_data_catagorized.json","w") as handle:
         json.dump(archiveData,handle,indent=4)
     print("[INFO] Changes has been made to the file buufer.")
+    exit(0)

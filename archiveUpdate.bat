@@ -1,1 +1,1 @@
-powershell -c "python archive_update_gui.py"
+python archive_updater_v2.0.py
