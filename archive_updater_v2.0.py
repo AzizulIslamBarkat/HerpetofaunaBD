@@ -7,7 +7,7 @@ def isACombOf(i):
             return False,char
     return True,""
 
-with open("./archive_data_categorized__.json") as handle:
+with open("./archive_data_categorized.json") as handle:
     archiveData=json.load(handle)
 
 try:
