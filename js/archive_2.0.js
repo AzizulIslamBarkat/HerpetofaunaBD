@@ -21,29 +21,51 @@ var getJSON = function (url, callback) {
     xhr.send()
 }
 
-String.prototype.replaceAll = function(strReplace, strWith) {
+function orderKeys(obj) {
+
+    var keys = Object.keys(obj).sort(function keyOrder(k1, k2) {
+        if (k1 < k2) return -1;
+        else if (k1 > k2) return +1;
+        else return 0;
+    }).reverse();
+
+    var i, after = {};
+    for (i = 0; i < keys.length; i++) {
+        after[keys[i]] = obj[keys[i]];
+        delete obj[keys[i]];
+    }
+
+    for (i = 0; i < keys.length; i++) {
+        obj[keys[i]] = after[keys[i]];
+    }
+    return obj;
+}
+
+String.prototype.replaceAll = function (strReplace, strWith) {
     /* Replaces all reference of $strReplace with $strWith */
     var esc = strReplace.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')
     var reg = new RegExp(esc, 'ig')
     return this.replace(reg, strWith)
 }
 
-function capitalize(s){
+function capitalize(s) {
     /* Capitalizes the string $s */
-    return s.toLowerCase().replace( /\b./g, function(a){ return a.toUpperCase() } )
+    return s.toLowerCase().replace(/\b./g, function (a) { return a.toUpperCase() })
 }
 
 function renderYear(catagorized_data, year) {
     /* Renders a single year */
     year_data = `<ul>
-    <h2 class="year-heading">${year}</h2>
-    ${catagorized_data}</ul>`
-    return year_data
+    <h2 class="year-heading">${year}</h2>`
+    catagorized_data.forEach(entry => {
+        year_data += renderLink(entry)
+    })
+    return year_data + "</ul>"
 }
 
-function RenderCatagory(catagory,data){
+function RenderCatagory(catagory, data) {
     /* Renders a single Catagory */
-    catagory_render=`<ul>
+    catagory_render = `<ul>
     <h5 class="catagory-heading">${catagory}</h5>`
     for (i = 0; i < data.length; i++) {
         catagory_render += renderLink(data[i])
@@ -56,80 +78,77 @@ function renderLink(data_col) {
     return `<li><a href="${data_col.link}">${data_col.title}</a></li>`
 }
 
-function getFilterCheckbox(){
+function getFilterCheckbox() {
     /* Returns an Object That represents the check boxes and a bolean value for the key*/
-    arr=[]
-    if(document.getElementById("amphibia").checked){arr.push("amphibia")}
-    if(document.getElementById("reptile").checked){arr.push("reptile")}
-    if(document.getElementById("bird").checked){arr.push("bird")}
-    if(document.getElementById("mammal").checked){arr.push("mammal")}
+    arr = []
+    if (document.getElementById("amphibia").checked) { arr.push("A") }
+    if (document.getElementById("reptile").checked) { arr.push("R") }
+    if (document.getElementById("bird").checked) { arr.push("B") }
+    if (document.getElementById("mammal").checked) { arr.push("M") }
     return arr
 
 }
 
 
-const SearchField=document.getElementById("search-text")
-const ArchiveWrapper=document.getElementById("archive-wrapper")
-const checkBoxGroup=document.getElementById("check-boxes")
+const SearchField = document.getElementById("search-text")
+const ArchiveWrapper = document.getElementById("archive-wrapper")
+const checkBoxGroup = document.getElementById("check-boxes")
 //Fetching the json file and storing it as a local variable
-var ArchiveDataJSON=false;
-getJSON("./archive_data_catagorized.json",(stat,json)=>{
-    ArchiveDataJSON=json
-    renderFullArchive(null)
+var ArchiveDataJSON = false;
+getJSON("./archive_data_catagorized.json", (stat, json) => {
+    ArchiveDataJSON = json
+    // ArchiveDataJSON=orderKeys(ArchiveDataJSON)
+    renderFullArchive("")
 })
 
 
-function renderFullArchive(SearchTerm){
+function renderFullArchive(SearchTerm) {
     /* Renders the Full archive-wrapper According to the search-field and check-boxes data */
-    if(ArchiveDataJSON){
+    if (ArchiveDataJSON) {
         //Getting the Selected Catagories
-        SelectedCatagories=getFilterCheckbox()
-        AvailableYears=Object.keys(ArchiveDataJSON)
+        SelectedCatagories = getFilterCheckbox()
+        //Arranging the keys reverse alphabetically
+        AvailableYears = Object.keys(ArchiveDataJSON).sort().reverse()
         //Variable to store all the filtered results
-        FilteredResult={}
+        FilteredResult = {}
         //Variable to hold wrapper's raw HTML
-        FilteredHTML=``
+        FilteredHTML = ``
         //Going through every year
-        for(d=0;d<AvailableYears.length;d++){
-            Year=AvailableYears[d]
-            DataForYear=ArchiveDataJSON[Year]
-            //Scanning Every catagory
-            YearRawHTML=``
-            SelectedCatagories.forEach(catagory => {
-                CatagoryData=DataForYear[catagory]
-                FilteredCatagoryData=[]
-                //Going through each entry
-                CatagoryData.forEach(entry => {
-                    if(SearchTerm==null){
-                        FilteredCatagoryData.push(entry)
-                    }
-                    else if(entry.title.toLowerCase().includes(SearchTerm.toLowerCase())){
-                        FilteredCatagoryData.push({
-                            "title":entry.title.replaceAll(SearchTerm,`<span class="highlight">${SearchTerm}</span>`),
-                            "link":entry.link
-                        })
+        for (d = 0; d < AvailableYears.length; d++) {
+            Year = AvailableYears[d]
+            //                                                 Arranging Titles Alphabetically
+            DataForYear = ArchiveDataJSON[Year].sort((a,b)=>(a.title>b.title)?1:(a.title<b.title)?-1:0)
+            //Scanning Every entry
+            YearRawHTML = ``
+            selectedEntries = []
+            DataForYear.forEach(entry => {
+                SelectedCatagories.forEach(category => {
+                    if (entry.category.includes(category)) {
+                        if (entry.title.toLowerCase().includes(SearchTerm.toLowerCase())) {
+                            selectedEntries.push({
+                                "title": entry.title.replaceAll(SearchTerm, `<span class="highlight">${SearchTerm}</span>`),
+                                "link": entry.link
+                            })
+                        }
                     }
                 });
-                if(FilteredCatagoryData.length>0){
-                    YearRawHTML+=RenderCatagory(capitalize(catagory),FilteredCatagoryData)
-                }
             });
-            if(YearRawHTML.length>0){
-                FilteredHTML+=renderYear(YearRawHTML,Year)
+            if (selectedEntries.length > 0) {
+                FilteredHTML += renderYear(selectedEntries, Year)
             }
         }
-        if(FilteredHTML.length>0){
-            ArchiveWrapper.innerHTML=FilteredHTML
+        if (FilteredHTML.length > 0) {
+            ArchiveWrapper.innerHTML = FilteredHTML
         }
-        else{
-            ArchiveWrapper.innerHTML=`<br><br><h3 class="text-center">No Entry Found That Matches With '${SearchTerm}' And Obeys The Filter </h3><br><br>`
+        else {
+            ArchiveWrapper.innerHTML = `<br><br><h3 class="text-center">No Entry Found That Matches With '${SearchTerm}' And Obeys The Filter </h3><br><br>`
         }
     }
 }
 
-SearchField.addEventListener("keyup",(ev)=>{
+SearchField.addEventListener("keyup", (ev) => {
     renderFullArchive(SearchField.value)
 })
-checkBoxGroup.addEventListener("click",(ev)=>{
+checkBoxGroup.addEventListener("click", (ev) => {
     renderFullArchive(SearchField.value)
 })
