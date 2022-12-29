@@ -6,19 +6,27 @@ body{
 }
 #sub-heading{
     text-align: center;
+    position: relative;
+    width: 80%;
+    font-size:large;
+    left: 50%;
+    transform: translateX(-50%);
 }
 #search-text{
     position: relative;
     left: 50%;
     transform: translateX(-50%);
-    width: 80%;
+    width: 95%;
     height: 2rem;
     background-color: #15dc3455;
     color: black;
     border-radius: 8px;
     text-align: center;
 }
-
+#entry-count{
+    background-color: rgba(0, 0, 0, 0.15);
+    font-weight: bold;
+}
 #search-area{
     display: inline;
     position: relative;

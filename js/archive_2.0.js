@@ -97,7 +97,11 @@ const checkBoxGroup = document.getElementById("check-boxes")
 var ArchiveDataJSON = false;
 getJSON("./archive_data_catagorized.json", (stat, json) => {
     ArchiveDataJSON = json
-    // ArchiveDataJSON=orderKeys(ArchiveDataJSON)
+    PaperCount=0
+    Object.keys(ArchiveDataJSON).forEach((year)=>{
+        PaperCount+=ArchiveDataJSON[year].length
+    })
+    document.getElementById("entry-count").innerText=PaperCount
     renderFullArchive("")
 })
 
@@ -117,23 +121,37 @@ function renderFullArchive(SearchTerm) {
         for (d = 0; d < AvailableYears.length; d++) {
             Year = AvailableYears[d]
             //                                                 Arranging Titles Alphabetically
-            DataForYear = ArchiveDataJSON[Year].sort((a,b)=>(a.title>b.title)?1:(a.title<b.title)?-1:0)
+            DataForYear = ArchiveDataJSON[Year].sort((a, b) => (a.title > b.title) ? 1 : (a.title < b.title) ? -1 : 0)
             //Scanning Every entry
             YearRawHTML = ``
             selectedEntries = []
+            iternum = DataForYear.length
+            //Going through every entry of a particular year
             DataForYear.forEach(entry => {
+                //Going though every selected category
                 SelectedCatagories.forEach(category => {
                     if (entry.category.includes(category)) {
-                        if (entry.title.toLowerCase().includes(SearchTerm.toLowerCase())) {
+                        if (SearchTerm == "") {
                             selectedEntries.push({
+                                "title": entry.title,
+                                "link": entry.link});
+                        }
+                        else if (entry.title.toLowerCase().includes(SearchTerm.toLowerCase())) {
+                            selectedEntries.push( {
                                 "title": entry.title.replaceAll(SearchTerm, `<span class="highlight">${SearchTerm}</span>`),
                                 "link": entry.link
                             })
                         }
                     }
                 });
-            });
+            })
             if (selectedEntries.length > 0) {
+                //Filtering Entries On Basis Of Unique Title
+                selectedEntries = selectedEntries.filter((value, index, self) =>
+                    index === self.findIndex((t) => (
+                        t.title === value.title
+                    ))
+                )
                 FilteredHTML += renderYear(selectedEntries, Year)
             }
         }
