@@ -44,6 +44,11 @@
             "title": "New Record of Bar-Necked Keelback, Fowlea schnurrenbergeri (Kramer, 1977) (Squamata: Colubridae) in Bangladesh",
             "link": "https://www.banglajol.info/index.php/BJZ/article/view/62059",
             "category": "R"
+        },
+        {
+            "title": "Favourable climatic niche in low elevations outside the flood zone characterises the distribution pattern of venomous snakes in Bangladesh",
+            "link": "https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/abs/favourable-climatic-niche-in-low-elevations-outside-the-flood-zone-characterises-the-distribution-pattern-of-venomous-snakes-in-bangladesh/8EBA88BDE142D829E9D73BEE6810128B",
+            "category": "R"
         }
     ],
     "2021": [
@@ -166,6 +171,16 @@
             "title": "Characterization of Zoonotic Bacteria from Captive Crocodiles in Bangladesh",
             "link": "https://innspub.net/ijb/characterization-of-zoonotic-bacteria-from-captive-crocodiles-in-bangladesh/",
             "category": "R"
+        },
+        {
+            "title": "Population assessment of the endangered Western Hoolock Gibbon Hoolock hoolock Harlan, 1834 at Sheikh Jamal Inani National Park, Bangladesh, and conservation significance of this site for threatened wildlife species",
+            "link": "https://www.threatenedtaxa.org/index.php/JoTT/article/view/7207",
+            "category": "M"
+        },
+        {
+            "title": "Habitat, ecology, and venom variation of cobras (genus Naja) and other venomous snakes of Bangladesh",
+            "link": "https://edoc.hu-berlin.de/handle/18452/25150",
+            "category": "R"
         }
     ],
     "2020": [
@@ -248,6 +263,16 @@
             "title": "Amphibian diversity in a cantonment area of Bangladesh",
             "link": "https://www.researchgate.net/publication/342888658_Amphibian_diversity_in_a_cantonment_area_of_Bangladesh",
             "category": "A"
+        },
+        {
+            "title": "BIRDS OT THE MADHUPUR NATIONAL PARK, BANGLADESH",
+            "link": "https://www.researchgate.net/publication/342717049_BIRDS_OT_THE_MADHUPUR_NATIONAL_PARK_BANGLADESH",
+            "category": "B"
+        },
+        {
+            "title": "HUMAN -PRIMATES CONFLICT IN BANGLADESH: A REVIEW",
+            "link": "https://www.researchgate.net/publication/337927616_HUMAN_-PRIMATES_CONFLICT_IN_BANGLADESH_A_REVIEW",
+            "category": "M"
         }
     ],
     "2019": [
@@ -320,6 +345,16 @@
             "title": "Species of snakes and their management Snake species",
             "link": "https://www.researchgate.net/publication/333681871_Species_of_snakes_and_their_management_Snake_species",
             "category": "R"
+        },
+        {
+            "title": "Breeding Birds at the Chittagong University Campus of Chittagong in Bangladesh",
+            "link": "https://www.researchgate.net/publication/340591896_Breeding_Birds_at_the_Chittagong_University_Campus_of_Chittagong_in_Bangladesh",
+            "category": "B"
+        },
+        {
+            "title": "Phylovenomics of Daboia russelii across the Indian subcontinent. Bioactivities and comparative in vivo neutralization and in vitro third-generation antivenomics of antivenoms against venoms from India, Bangladesh and Sri Lanka",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31325606/",
+            "category": "R"
         }
     ],
     "2018": [
@@ -382,6 +417,16 @@
             "title": "Population status and spatial distribution of saltwater crocodile, Crocodylus porosus in the Sundarbans of Bangladesh",
             "link": "https://www.banglajol.info/index.php/BJZ/article/view/37624#:~:text=The%20Saltwater%20Crocodile%2C%20Crocodylus%20porosus,mangrove%20forest%20of%20the%20country.&text=Based%20on%20this%20estimate%2C%20it,occur%20in%20the%20Bangladesh%20Sundarbans.",
             "category": "R"
+        },
+        {
+            "title": "Do Rhesus monkeys (Macaca mulatta) damage the unpalatable crops during conflict with human? A case study from Rampur village of Narsingdi District in Bangladesh",
+            "link": "https://www.researchgate.net/publication/323773246_Do_Rhesus_monkeys_Macaca_mulatta_damage_the_unpalatable_crops_during_conflict_with_human_A_case_study_from_Rampur_village_of_Narsingdi_District_in_Bangladesh",
+            "category": "M"
+        },
+        {
+            "title": "Occurrence of the red giant flying squirrel (Petaurista petaurista: Sciuridae) in Bangladesh",
+            "link": "https://www.researchgate.net/publication/323181055_Occurrence_of_the_red_giant_flying_squirrel_Petaurista_petaurista_Sciuridae_in_Bangladesh",
+            "category": "M"
         }
     ],
     "2017": [
@@ -444,6 +489,26 @@
             "title": "Amphibians of Bangladesh: an underestimated arena of biodiversity",
             "link": "https://www.researchgate.net/publication/344364578_Amphibians_of_Bangladesh_an_underestimated_arena_of_biodiversity",
             "category": "A"
+        },
+        {
+            "title": "A checklist of the avian fauna of Chittagong University campus, Bangladesh",
+            "link": "https://www.researchgate.net/publication/317903996_A_checklist_of_the_avian_fauna_of_Chittagong_University_campus_Bangladesh",
+            "category": "B"
+        },
+        {
+            "title": "Occurrence and conservation of the Indian Leopard (Mammalia: Carnivora: Felidae: Panthera pardus) in Cox's Bazar District of Bangladesh",
+            "link": "https://threatenedtaxa.org/JoTT/article/view/1898/4075",
+            "category": "M"
+        },
+        {
+            "title": "Deer Population Growth in the Bangabandhu Safari Park in Bangladesh",
+            "link": "https://www.researchgate.net/publication/340344109_Deer_Population_Growth_in_the_Bangabandhu_Safari_Park_in_Bangladesh",
+            "category": "M"
+        },
+        {
+            "title": "A comparative study of avian diversity in Teknaf Wildlife Sanctuary, Inani Reserve Forest and Chittagong University campus in Bangladesh",
+            "link": "https://threatenedtaxa.org/JoTT/article/view/2942",
+            "category": "B"
         }
     ],
     "2016": [
@@ -511,6 +576,11 @@
             "title": "A New Species of Frog (Anura: Dicroglossidae) Discovered from the Mega City of Dhaka",
             "link": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0149597&type=printable",
             "category": "A"
+        },
+        {
+            "title": "Mammalian Fauna and Conservational Issues of the Baraiyadhala National Park in Chittagong, Bangladesh",
+            "link": "https://www.scirp.org/journal/paperinformation.aspx?paperid=65581",
+            "category": "M"
         }
     ],
     "2015": [
@@ -663,6 +733,26 @@
             "title": "A New Species of Euphlyctis (Anura: Dicroglossidae) from Barisal, Bangladesh",
             "link": "https://www.researchgate.net/publication/272074705_A_New_Species_of_Euphlyctis_Anura_Dicroglossidae_from_Barisal_Bangladesh",
             "category": "A"
+        },
+        {
+            "title": "Habitat Analysis of Stork-Billed Kingfisher (Pelargopsis capensis) and Pied Kingfisher (Ceryle rudis) at the Chittagong University Campus, Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/27396",
+            "category": "B"
+        },
+        {
+            "title": "Frugivorous Birds and Fruit Plants in a Deciduous Forest in Bangladesh: A Case Study in the Madhupur National Park",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/27390",
+            "category": "B"
+        },
+        {
+            "title": "Status and diversity of snakes (Reptilia: Squamata: Serpentes) at the Chittagong University Campus in Chittagong, Bangladesh",
+            "link": "https://threatenedtaxa.org/JoTT/article/view/2431/3471",
+            "category": "R"
+        },
+        {
+            "title": "Do rhesus monkeys ( Macaca mulatta) damage unpalatabe crops? A case study from Rampur of Narsingdi in Bangladesh. Biodiversity Research Group Conference, 22 May , Chittagong , Bangladesh",
+            "link": "https://www.researchgate.net/publication/277588137_M_Mazbah_Uddin_M_Farid_Ahsan_2015_Do_rhesus_monkeys_Macaca_mulatta_damage_unpalatabe_crops_A_case_study_from_Rampur_of_Narsingdi_in_Bangladesh_Biodiversity_Research_Group_Conference_22_May_Chittagong_",
+            "category": "M"
         }
     ],
     "2014": [
@@ -785,6 +875,26 @@
             "title": "Impact of temperature fluctuations on gut histology of the cricket frog, Fejervary alimnocharis (Anura: Dicroglossidae)",
             "link": "https://www.researchgate.net/publication/309360114_Impact_of_temperature_fluctuations_on_gut_histology_of_the_cricket_frog_Fejervary_alimnocharis_Anura_Dicroglossidae",
             "category": "A"
+        },
+        {
+            "title": "HABITAT SELECTION AND POPULATION ECOLOGY OF SIX WINTER- ACTIVE ANURANS (CLASS: AMPHIBIA) OF THE CHITTAGONG UNIVERSITY CAMPUS",
+            "link": "https://www.researchgate.net/publication/266710936_HABITAT_SELECTION_AND_POPULATION_ECOLOGY_OF_SIX_WINTER-_ACTIVE_ANURANS_CLASS_AMPHIBIA_OF_THE_CHITTAGONG_UNIVERSITY_CAMPUS",
+            "category": "A"
+        },
+        {
+            "title": "Activity patterns of pied kingfisher (Ceryle rudis) and stork-billed kingfisher (Pelargopsis capensis) at the Chittagong university campus, Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/23355",
+            "category": "B"
+        },
+        {
+            "title": "Human-Rhesus Monkey conflict at Rampur Village under Monohardi Upazila in Narsingdi District of Bangladesh",
+            "link": "https://threatenedtaxa.org/index.php/JoTT/article/view/200",
+            "category": "M"
+        },
+        {
+            "title": "VEGETATION COVER, GROUP SIZE AND COMPOSITION OF COMMON LANGURS (SEMNOPITHECUS ENTELLUS) AT KESHABPUR IN BANGLADESH",
+            "link": "https://www.researchgate.net/publication/340256063_VEGETATION_COVER_GROUP_SIZE_AND_COMPOSITION_OF_COMMON_LANGURS_SEMNOPITHECUS_ENTELLUS_AT_KESHABPUR_IN_BANGLADESH",
+            "category": "M"
         }
     ],
     "2013": [
@@ -852,6 +962,11 @@
             "title": "Status of Herpetofauna in Bangladesh Livestock Research Institute (BLRI), Savar, Dhaka",
             "link": "https://www.researchgate.net/publication/344312012_Status_of_Herpetofauna_in_Bangladesh_Livestock_Research_Institute_BLRI_Savar_Dhaka",
             "category": "AR"
+        },
+        {
+            "title": "Local People's Perceptions of Crop Damage by Common Langurs (Semnopithecus entellus) and Human-langur Conflict in Keshabpur of Bangladesh",
+            "link": "https://www.ccsenet.org/journal/index.php/enrr/article/view/21632",
+            "category": "M"
         }
     ],
     "2012": [
@@ -939,6 +1054,11 @@
             "title": "Food habits and feeding behaviour of spotted flapshell turtle, Lissemys punctata (Lacepede, 1788) in Bangladesh",
             "link": "https://www.banglajol.info/index.php/BJZ/article/view/14313",
             "category": "R"
+        },
+        {
+            "title": "The present status and distribution of Long-tailed Macaque Macaca fascicularis aurea (Mammalia: Primates: Cercopithecidae) in Bangladesh",
+            "link": "https://threatenedtaxa.org/JoTT/article/view/9",
+            "category": "M"
         }
     ],
     "2011": [
@@ -951,6 +1071,11 @@
             "title": "Geographic Distribution. FEJERVARYA ASMATI (Bangladeshi Cricket Frog)",
             "link": "https://www.researchgate.net/publication/281259710_Geographic_Distribution_FEJERVARYA_ASMATI_Bangladeshi_Cricket_Frog",
             "category": "A"
+        },
+        {
+            "title": "Conservation of breeding colonies of the bank myna, Acridotheres ginginianus (Latham 1790), in Chapai Nawabganj, Bangladesh",
+            "link": "https://www.banglajol.info/index.php/UJZRU/article/view/10753",
+            "category": "B"
         }
     ],
     "2010": [
@@ -1057,6 +1182,16 @@
             "title": "Seasonal Variation in Feeding Behaviour of Indian Roofed Turtle, Pangshura tectum in Bangladesh",
             "link": "https://inis.iaea.org/search/search.aspx?orig_q=RN:40101784",
             "category": "R"
+        },
+        {
+            "title": "Mammals of The Chittagong University Campus, Chittagong",
+            "link": "https://www.researchgate.net/publication/236898434_Mammals_of_The_Chittagong_University_Campus_Chittagong",
+            "category": "M"
+        },
+        {
+            "title": "Mammals of The Chittagong University Campus, Chittagong",
+            "link": "https://www.scirp.org/(S(czeh2tfqyw2orz553k1w0r45))/reference/ReferencesPapers.aspx?ReferenceID=1733188",
+            "category": "M"
         }
     ],
     "2007": [
@@ -1084,6 +1219,16 @@
             "title": "Geographic Distribution. Kalophrynus interlineatus (Striped sticky frog).",
             "link": "https://www.researchgate.net/publication/260639836_Geographic_Distribution_Kalophrynus_interlineatus_Striped_sticky_frog",
             "category": "A"
+        },
+        {
+            "title": "Effect of pariah dog on wild mammals in Chittagong University campus, Chittagong",
+            "link": "https://www.researchgate.net/publication/260364538_Effect_of_pariah_dog_on_wild_mammals_in_Chittagong_University_campus_Chittagong",
+            "category": "M"
+        },
+        {
+            "title": "Centipede (Scolopendra sp) kills a Plain Martin",
+            "link": "https://www.researchgate.net/publication/346335888_Centipede_Scolopendra_sp_kills_a_Plain_Martin",
+            "category": "B"
         }
     ],
     "2006": [
@@ -1096,6 +1241,11 @@
             "title": "Ecology of Indian Roofed Turtle, Pangshura tectum (Gray 1831) in Bangladesh",
             "link": "https://www.nepjol.info/index.php/ECO/article/view/1621#:~:text=lndian%20roofed%20turtle%2C%20Pangshura%20tectum,of%20aquatic%20habitats%20in%20Bangladesh.&text=Most%20of%20the%20time%20the,feeding%20and%208.16%25%20in%20browsing.",
             "category": "R"
+        },
+        {
+            "title": "Eco-ethology of the common langur Semnopithecus entellus (Dufresne) in Bangladesh",
+            "link": "https://www.banglajol.info/index.php/UJZRU/article/view/317",
+            "category": "M"
         }
     ],
     "2004": [
@@ -1108,6 +1258,11 @@
             "title": "Archive Title 4",
             "link": "Archive Link 5",
             "category": "A"
+        },
+        {
+            "title": "Infant behaviour and development in Hoolock Gibbon (Bunopithecus hoolock hoolock)",
+            "link": "https://www.zoosprint.zooreach.org/index.php/zpj/article/view/6259",
+            "category": "M"
         }
     ],
     "2003": [
@@ -1127,6 +1282,13 @@
             "title": "The trade in freshwater turtles from Bangladesh",
             "link": "https://www.cambridge.org/core/journals/oryx/article/trade-in-freshwater-turtles-from-bangladesh/C938673EB1B3C3503DC43A9A7E9927F6",
             "category": "R"
+        }
+    ],
+    "2002": [
+        {
+            "title": "Birds of the Karnaphuli River Delta and adjacent areas in Chittagong, Bangladesh",
+            "link": "https://www.zoosprint.zooreach.org/index.php/zpj/article/view/6028",
+            "category": "B"
         }
     ]
 }
