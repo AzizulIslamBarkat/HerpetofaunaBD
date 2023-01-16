@@ -1006,6 +1006,11 @@
             "title": "Feeding techniques of Common Kingfisher",
             "link": "https://www.researchgate.net/publication/342493728_Feeding_techniques_of_Common_Kingfisher",
             "category": "B"
+        },
+        {
+            "title": "Preying frequency of white-throated kingfisher, Halcyon smyrnensis (Linnaeus, 1758)",
+            "link": "https://www.nepjol.info/index.php/ECO/article/view/15469",
+            "category": "B"
         }
     ],
     "2015": [
@@ -1160,11 +1165,6 @@
             "category": "A"
         },
         {
-            "title": "Habitat Analysis of Stork-Billed Kingfisher (Pelargopsis capensis) and Pied Kingfisher (Ceryle rudis) at the Chittagong University Campus, Bangladesh",
-            "link": "https://www.banglajol.info/index.php/BJZ/article/view/27396",
-            "category": "B"
-        },
-        {
             "title": "Frugivorous Birds and Fruit Plants in a Deciduous Forest in Bangladesh: A Case Study in the Madhupur National Park",
             "link": "https://www.banglajol.info/index.php/BJZ/article/view/27390",
             "category": "B"
@@ -1233,6 +1233,11 @@
             "title": "SUBSTRATE UTILIZATION BY BENGAL SACRED LANGUR SEMNOPITHECUS ENTELLUS (DUFRESNE, 1797) IN JESSORE, BANGLADESH: EFFECT OF RESOURCE TYPE ON FEEDING IN URBAN AND RURAL GROUPS",
             "link": "https://www.alliedacademies.org/abstract/substrate-utilization-by-bengal-sacred-langur-semnopithecus-entellus-dufresne-1797-in-jessore-bangladesh-effect-of-resource-type-o-3651.html",
             "category": "M"
+        },
+        {
+            "title": "FOOD AND FEEDING HABITS OF WHITE-THROATED KINGFISHER (HALCYON SMYRNENSIS) IN BANGLADESH",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/23366",
+            "category": "B"
         }
     ],
     "2014": [
@@ -1709,6 +1714,11 @@
             "title": "The effect of urban and rural habitats and resource type on activity budgets of commensal rhesus macaques (Macaca mulatta) in Bangladesh",
             "link": "https://link.springer.com/article/10.1007/s10329-012-0330-6",
             "category": "M"
+        },
+        {
+            "title": "Status and Distribution of the Gangetic Dolphin, Platanista Gangetica Gangetica (Roxburgh, 1801) In River Buriganga During 2003-2004 and Its Conservation",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/12890",
+            "category": "M"
         }
     ],
     "2011": [
@@ -1740,6 +1750,11 @@
         {
             "title": "Pallas's Fish Eagle Haliaeetus leucoryphusin Bangladesh",
             "link": "https://www.orientalbirdclub.org/birdingasia-16",
+            "category": "B"
+        },
+        {
+            "title": "GROWTH AND DEVELOPMENT PATTERN OF THE LITTLE CORMOITANT (PHALACRACORAX NIGER, VIEILLOT) IN BANGLADESH",
+            "link": "https://www.researchgate.net/publication/342261741_GROWTH_AND_DEVELOPMENT_PATTERN_OF_THE_LITTLE_CORMOITANT_PHALACRACORAX_NIGER_VIEILLOT_IN_BANGLADESH",
             "category": "B"
         }
     ],
@@ -1828,6 +1843,11 @@
             "title": "Preliminary survey of shorebird hunting in five villages around Sonadia Island, Cox's Bazar, Bangladesh",
             "link": "https://www.orientalbirdclub.org/birdingasia-14",
             "category": "B"
+        },
+        {
+            "title": "Morphometric analysis of the little cormorant (Phalacrocorax niger)",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/51669",
+            "category": "B"
         }
     ],
     "2009": [
@@ -1869,6 +1889,11 @@
         {
             "title": "Diversity and Population of Avifauna of Two Urban Sites in Dhaka, Bangladesh",
             "link": "https://www.nepjol.info/index.php/ECO/article/view/3464",
+            "category": "B"
+        },
+        {
+            "title": "Breeding biology of the Little Cormorant Phalacrocorax niger (Pelecaniformes: Phlacrocoracidae) in Bangladesh",
+            "link": "https://threatenedtaxa.org/index.php/JoTT/article/view/364/580",
             "category": "B"
         }
     ],
@@ -1912,6 +1937,21 @@
             "title": "First record of the Large-toothed Ferret Badger in Bangladesh",
             "link": "https://www.researchgate.net/publication/299575107_First_record_of_the_Large-toothed_Ferret_Badger_in_Bangladesh",
             "category": "M"
+        },
+        {
+            "title": "FOOD OF THE NESTLINGS OF THE LITTLE CORMORANT, PHALACROCORAX NIGER (VIEILLOT)",
+            "link": "https://www.researchgate.net/publication/342261065_FOOD_OF_THE_NESTLINGS_OF_THE_LITTLE_CORMORANT_PHALACROCORAX_NIGER_VIEILLOT",
+            "category": "B"
+        },
+        {
+            "title": "A COMPARISON OF SOME ASPECTS OF BREEDING OF THE LITTLE CORMORANT (PHALACROCORAX NIGER) IN NATURE AND IN CAPTIVITY",
+            "link": "https://www.researchgate.net/publication/342260927_A_COMPARISON_OF_SOME_ASPECTS_OF_BREEDING_OF_THE_LITTLE_CORMORANT_PHALACROCORAX_NIGER_IN_NATURE_AND_IN_CAPTIVITY",
+            "category": "B"
+        },
+        {
+            "title": "Display and Sexual Activities of the Little Cormorant, Phalacrocorax niger (Ciconiformes: Phalacrocoracidae) in Captivity",
+            "link": "https://www.researchgate.net/publication/237295734_Display_and_Sexual_Activities_of_the_Little_Cormorant_Phalacrocorax_niger_Ciconiformes_Phalacrocoracidae_in_Captivity",
+            "category": "B"
         }
     ],
     "2007": [
@@ -2013,6 +2053,11 @@
             "title": "Fire-breasted Flowerpecker Dicaeum ignipectus: the first record for Bangladesh",
             "link": "https://www.orientalbirdclub.org/forktail20",
             "category": "B"
+        },
+        {
+            "title": "POPULATION ECOLOGY OF THE LITTLE CORMORANT, PHALACROCORAX NIGER IN A COLONY",
+            "link": "https://www.nepjol.info/index.php/ECO/article/view/146",
+            "category": "B"
         }
     ],
     "2003": [
@@ -2030,6 +2075,11 @@
             "title": "Amphibian fauna from Chittagong and Chittagong Hill-tracts, Bangladesh",
             "link": "https://www.banglajol.info/index.php/UJZRU/article/view/103",
             "category": "A"
+        },
+        {
+            "title": "DAILY ACTIVITIES OF LITTLE CORMORANT, PHALACROCORAX NIGER (VIEILLOT), (CICONIIFORMES: PHALACROCORACIDAE) IN CAPTIVITY",
+            "link": "https://www.researchgate.net/publication/342260753_DAILY_ACTIVITIES_OF_LITTLE_CORMORANT_PHALACROCORAX_NIGER_VIEILLOT_CICONIIFORMES_PHALACROCORACIDAE_IN_CAPTIVITY",
+            "category": "B"
         }
     ],
     "1990": [
@@ -2043,6 +2093,11 @@
         {
             "title": "Birds of the Karnaphuli River Delta and adjacent areas in Chittagong, Bangladesh",
             "link": "https://www.zoosprint.zooreach.org/index.php/zpj/article/view/6028",
+            "category": "B"
+        },
+        {
+            "title": "Experimental Studies on Food Habits of Little Cormorant (Phalacrocorax niger)(Veillot)",
+            "link": "https://www.researchgate.net/publication/277884042_Experimental_Studies_on_Food_Habits_of_Little_Cormorant_Phalacrocorax_nigerVeillot",
             "category": "B"
         }
     ],
@@ -2087,6 +2142,11 @@
             "title": "Conservation of western hoolock gibbon (Hoolock hoolock hoolock) in India and Bangladesh",
             "link": "https://zooreach.org/downloads/ZOO_CAMP_PHVA_reports/2005hoolock_gibbon_PHVA_report.pdf",
             "category": "M"
+        },
+        {
+            "title": "Activities of the little cormorant, Phalacrocorax niger (Vieillot) in relation to sunlight in captivity",
+            "link": "https://www.nepjol.info/index.php/ECO/article/view/3200",
+            "category": "B"
         }
     ],
     "1992": [
