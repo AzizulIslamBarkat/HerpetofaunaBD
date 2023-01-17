@@ -159,6 +159,16 @@
             "title": "Using community-based interviews to determine population size, distribution and nest site characteristics of Pallas's fish eagle in north-east Bangladesh",
             "link": "https://www.cambridge.org/core/journals/oryx/article/using-communitybased-interviews-to-determine-population-size-distribution-and-nest-site-characteristics-of-pallass-fish-eagle-in-northeast-bangladesh/A6AB74A6E23F9C7CB326008A699B7141",
             "category": "B"
+        },
+        {
+            "title": "Mixed-species association and a record of a hybrid offspring between Trachypithecus pileatus and Trachypithecus phayrei in Bangladesh",
+            "link": "https://link.springer.com/article/10.1007/s10329-022-01035-8",
+            "category": "M"
+        },
+        {
+            "title": "Artificialcanopy bridge use by primates and other arboreal mammals in a fragmented tropical forest of northeast Bangladesh",
+            "link": "https://brill.com/view/journals/ijfp/93/3-6/article-p325_10.xml",
+            "category": "M"
         }
     ],
     "2021": [
@@ -371,6 +381,21 @@
             "title": "Breeding biology of common kingfisher (Alcedo atthis, Linnaeus 1758)",
             "link": "https://www.banglajol.info/index.php/JASBS/article/view/54184",
             "category": "B"
+        },
+        {
+            "title": "Estimated Density, Population Size and Distribution of the Endangered Western Hoolock Gibbon (Hoolock hoolock) in Forest Remnants in Bangladesh",
+            "link": "https://www.mdpi.com/1424-2818/13/10/490",
+            "category": "M"
+        },
+        {
+            "title": "Observation of Infanticide in the Particolored Flying Squirrel (Hylopetes alboniger) from a Forest in Northeastern Bangladesh",
+            "link": "https://bioone.org/journals/mammal-study/volume-46/issue-3/ms2020-0098/Observation-of-Infanticide-in-the-Particolored-Flying-Squirrel-Hylopetes-alboniger/10.3106/ms2020-0098.short",
+            "category": "M"
+        },
+        {
+            "title": "STATUS OF PHAYRE'S LANGUR Trachypithecus phayrei IN SATCHARI NATIONAL PARK, BANGLADESH",
+            "link": "http://www.primate-sg.org/asian-primates-9-1/",
+            "category": "M"
         }
     ],
     "2020": [
@@ -502,6 +527,31 @@
         {
             "title": "Costs of coexistence: understanding the drivers of tolerance towards Asian elephants Elephas maximus in rural Bangladesh",
             "link": "https://www.cambridge.org/core/journals/oryx/article/costs-of-coexistence-understanding-the-drivers-of-tolerance-towards-asian-elephants-elephas-maximus-in-rural-bangladesh/8CA2153354B19CD037BE7A21CB32E45B",
+            "category": "M"
+        },
+        {
+            "title": "Habitat suitability of the Asiatic elephant in the trans-boundary Patharia Hills Reserve Forest, northeast India",
+            "link": "https://www.researchgate.net/publication/341416082_Habitat_suitability_of_the_Asiatic_elephant_in_the_trans-boundary_Patharia_Hills_Reserve_Forest_northeast_India",
+            "category": "M"
+        },
+        {
+            "title": "Density of Nocturnal Mammals in a Forest Patch in Bangladesh",
+            "link": "https://www.preprints.org/manuscript/202008.0014/v1",
+            "category": "M"
+        },
+        {
+            "title": "Bengal slow loris (Nycticebus bengalensis) THE IUCN RED LIST OF THREATENED SPECIES",
+            "link": "https://www.iucnredlist.org/species/39758/179045340",
+            "category": "M"
+        },
+        {
+            "title": "Home Range, Activity Budgets and Habitat Use in the Bengal Slow Loris (Nycticebus bengalensis) in Bangladesh",
+            "link": "https://www.cambridge.org/core/books/abs/evolution-ecology-and-conservation-of-lorises-and-pottos/home-range-activity-budgets-and-habitat-use-in-the-bengal-slow-loris-nycticebus-bengalensis-in-bangladesh/80C335B2458C9FB1A8A377B97A0A86F7",
+            "category": "M"
+        },
+        {
+            "title": "RANGING AND RANGING RELATED BEHAVIOR OF A DISTURBED WESTERN HOOLOCK GIBBON (HOOLOCK HOOLOCK) GROUP",
+            "link": "https://www.researchgate.net/publication/339302582_RANGING_AND_RANGING_RELATED_BEHAVIOR_OF_A_DISTURBED_WESTERN_HOOLOCK_GIBBON_HOOLOCK_HOOLOCK_GROUP",
             "category": "M"
         }
     ],
@@ -635,6 +685,31 @@
             "title": "Impact of trap barrier systems on rodent damage to upland rice cropping systems during bamboo masting events",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S0261219419302856#:~:text=Rodent%20numbers%20and%20crop%20damage,during%20a%20bamboo%20masting%20event.&text=Trap%20barrier%20systems%20(TBS)%20reduced,damage%20compared%20to%20unfenced%20fields.&text=Bamboo%20masting%20events%20do%20not,outbreaks%20and%20severe%20crop%20damage.",
             "category": "M"
+        },
+        {
+            "title": "Mortality of primates due to roads and power lines in two forest patches in Bangladesh",
+            "link": "https://zoologia.pensoft.net/article/33540/",
+            "category": "M"
+        },
+        {
+            "title": "Population Status, Threats and Conservation of the Bengal slow loris Nycticebus bengalensis in Northeast Bangladesh",
+            "link": "https://www.researchgate.net/publication/335703877_Population_Status_Threats_and_Conservation_of_the_Bengal_slow_loris_Nycticebus_bengalensis_in_Northeast_Bangladesh",
+            "category": "M"
+        },
+        {
+            "title": "Population Status, Threats and Conservation of the Bengal Slow Loris Nycticebus bengalensis in Northeast Bangladesh",
+            "link": "https://www.researchgate.net/publication/336855587_Population_Status_Threats_and_Conservation_of_the_Bengal_Slow_Loris_Nycticebus_bengalensis_in_Northeast_Bangladesh",
+            "category": "M"
+        },
+        {
+            "title": "Population status of Particolored Flying Squirrel (Hylopetes alboniger) in four forest patches of northeast Bangladesh",
+            "link": "https://nebio.in/2019/05/14/nebio-102-al-razi-maria/",
+            "category": "M"
+        },
+        {
+            "title": "Breeding record of Common Hoopoe Upupa epops (Aves: Upupidae) at Satchari National Park in northeastern Bangladesh",
+            "link": "https://threatenedtaxa.org/JoTT/article/view/3421",
+            "category": "B"
         }
     ],
     "2018": [
@@ -898,6 +973,16 @@
         {
             "title": "Cryptic Rhinolophus pusillus Temminck, 1834 (Chiroptera, Rhinolophidae): a new distribution record from the Chittagong Hill Tracts, Bangladesh",
             "link": "https://checklist.pensoft.net/article/20046/",
+            "category": "M"
+        },
+        {
+            "title": "Density of two paradoxurinae species (Carnivora: Viverridae) in Satchari National Park, Bangladesh",
+            "link": "https://www.researchgate.net/publication/322070770_Density_of_two_paradoxurinae_species_Carnivora_Viverridae_in_Satchari_National_Park_Bangladesh",
+            "category": "M"
+        },
+        {
+            "title": "An investigation on electrocution fatalities in Primates of Satchari National Park, Bangladesh: is long tail a curse?",
+            "link": "https://www.researchgate.net/publication/316643711_An_investigation_on_electrocution_fatalities_in_Primates_of_Satchari_National_Park_Bangladesh_is_long_tail_a_curse",
             "category": "M"
         }
     ],
@@ -1278,6 +1363,11 @@
             "title": "FOOD AND FEEDING HABITS OF WHITE-THROATED KINGFISHER (HALCYON SMYRNENSIS) IN BANGLADESH",
             "link": "https://www.banglajol.info/index.php/BJZ/article/view/23366",
             "category": "B"
+        },
+        {
+            "title": "Comparative study on Diversity, Distribution, Abundance and Conservation of herpeto-mammalian fauna of wetland and coastal island, Bangladesh",
+            "link": "https://www.researchgate.net/publication/281269758_Comparative_study_on_Diversity_Distribution_Abundance_and_Conservation_of_herpeto-mammalian_fauna_of_wetland_and_coastal_island_Bangladesh/citations",
+            "category": "ARM"
         }
     ],
     "2014": [
