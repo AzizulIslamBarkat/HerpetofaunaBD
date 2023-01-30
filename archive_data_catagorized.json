@@ -451,6 +451,11 @@
             "title": "The Black-necked Grebe Podiceps nigricollis on the Padma River near Rajshahi, Bangladesh",
             "link": "https://www.researchgate.net/publication/355483348_The_Black-necked_Grebe_Podiceps_nigricollis_on_the_Padma_River_near_Rajshahi_Bangladesh",
             "category": "B"
+        },
+        {
+            "title": "Status of Illegal Bird Hunting in Bangladesh: Online news portal as the source",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/10871209.2021.1895380",
+            "category": "B"
         }
     ],
     "2020": [
@@ -1518,6 +1523,11 @@
             "title": "Human-fishing cat conflicts and conservation needs of fishing cats in Bangladesh",
             "link": "https://www.researchgate.net/publication/343471962_Human-fishing_cat_conflicts_and_conservation_needs_of_fishing_cats_in_Bangladesh",
             "category": "M"
+        },
+        {
+            "title": "Local Usage of Tiger Parts and Its Role in Tiger Killing in the Bangladesh Sundarbans",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/10871209.2015.1107786",
+            "category": "M"
         }
     ],
     "2014": [
@@ -1887,6 +1897,11 @@
             "title": "Egg morphometric analyses in chickens and some selected birds",
             "link": "https://www.banglajol.info/index.php/UJZRU/article/view/15439",
             "category": "B"
+        },
+        {
+            "title": "Distribution of Rhesus Macaques (Macaca mulatta) in Bangladesh: Inter-population Variation in Group Size and Composition",
+            "link": "https://bioone.org/journals/primate-conservation/volume-26/issue-1/052.026.0103/Distribution-of-Rhesus-Macaques-Macaca-mulatta-in-Bangladesh--Inter/10.1896/052.026.0103.full",
+            "category": "M"
         }
     ],
     "2012": [
@@ -2049,6 +2064,11 @@
             "title": "Birds Of Joypurhat District, Bangladesh",
             "link": "https://www.banglajol.info/index.php/JLES/article/view/9721",
             "category": "B"
+        },
+        {
+            "title": "Cryptic Anuran Biodiversity in Bangladesh Revealed by Mitochondrial 16S rRNA Gene Sequences",
+            "link": "https://bioone.org/journals/zoological-science/volume-29/issue-3/zsj.29.162/Cryptic-Anuran-Biodiversity-in-Bangladesh-Revealed-by-Mitochondrial-16S-rRNA/10.2108/zsj.29.162.short",
+            "category": "A"
         }
     ],
     "2011": [
@@ -2327,6 +2347,16 @@
             "title": "Population Status and Conservation of Hoolock Gibbons Hylobates Hoolock Harlan 1834 in Bangladesh",
             "link": "https://www.biodiversitylibrary.org/part/154624",
             "category": "M"
+        },
+        {
+            "title": "Genetic Divergence and Reproductive Isolation in the Genus Fejervarya (Amphibia: Anura) from Bangladesh Inferred from Morphological Observations, Crossing Experiments, and Molecular Analyses",
+            "link": "https://bioone.org/journals/zoological-science/volume-25/issue-11/zsj.25.1084/Genetic-Divergence-and-Reproductive-Isolation-in-the-Genus-Fejervarya-Amphibia/10.2108/zsj.25.1084.short",
+            "category": "A"
+        },
+        {
+            "title": "Genetic Differentiation of the Fejervarya limnocharis Complex from Bangladesh and Other Asian Countries Elucidated by Allozyme Analyses",
+            "link": "https://bioone.org/journals/zoological-science/volume-25/issue-3/zsj.25.261/Genetic-Differentiation-of-the-Fejervarya-limnocharis-Complex-from-Bangladesh-and/10.2108/zsj.25.261.short",
+            "category": "A"
         }
     ],
     "2007": [
@@ -2612,6 +2642,20 @@
             "title": "Distribution and Status of the Asian Elephant",
             "link": "https://www.cambridge.org/core/journals/oryx/article/distribution-and-status-of-the-asian-elephant/4611389E09C0DAC9E2AF6C3C3B94219C",
             "category": "M"
+        }
+    ],
+    "2023": [
+        {
+            "title": "Ecology of Avifauna in Green Spaces of a Sub-Tropical Urban Landscape: Community Structure and Habitat Preference",
+            "link": "https://www.banglajol.info/index.php/jbcbm/article/view/63816",
+            "category": "B"
+        }
+    ],
+    "1991": [
+        {
+            "title": "A Note on the Occurrence of the Roofed Turtle, Kachuga tecta in Saline Water in Southern Bangladesh",
+            "link": "https://www.thebhs.org/publications/the-herpetological-bulletin/issue-number-37-autumn-1991/2429-hb037-03?highlight=WyJiYW5nbGFkZXNoIl0=",
+            "category": "R"
         }
     ]
 }
