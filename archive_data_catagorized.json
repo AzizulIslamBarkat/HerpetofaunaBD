@@ -194,6 +194,11 @@
             "title": "Wildlife diversity of the Padma River islands, Rajshahi, Bangladesh with special notes on operation of sand snake (Psammophis condanarus) (Reptilia: Squamata: Lamprophiidae)",
             "link": "https://wildlife-biodiversity.com/index.php/jwb/article/view/187",
             "category": "ARBM"
+        },
+        {
+            "title": "Human-elephant conflicts in the Teknaf Wildlife Sanctuary in Bangladesh",
+            "link": "https://crimsonpublishers.com/boj/pdf/BOJ.000557.pdf",
+            "category": "M"
         }
     ],
     "2021": [
@@ -456,6 +461,16 @@
             "title": "Status of Illegal Bird Hunting in Bangladesh: Online news portal as the source",
             "link": "https://www.tandfonline.com/doi/full/10.1080/10871209.2021.1895380",
             "category": "B"
+        },
+        {
+            "title": "Land cover change and its impact on human-elephant conflict: a case from Fashiakhali forest reserve in Bangladesh",
+            "link": "https://link.springer.com/article/10.1007/s42452-021-04625-1",
+            "category": "M"
+        },
+        {
+            "title": "The Relationship Between Feeding Patch Quality and Fodder Species of Wild Elephants in the Teknaf Wildlife Sanctuary, Cox's Bazar, Bangladesh",
+            "link": "https://ccsenet.org/journal/index.php/ijb/article/view/0/46319",
+            "category": "M"
         }
     ],
     "2020": [
@@ -1276,6 +1291,11 @@
             "title": "Status and distribution of species of the family Anatidae in the Padma River charland of Rajshahi District, Bangladesh",
             "link": "https://www.researchgate.net/publication/351919880_Status_and_distribution_of_species_of_the_family_Anatidae_in_the_Padma_River_charland_of_Rajshahi_District_Bangladesh",
             "category": "B"
+        },
+        {
+            "title": "Human-elephant conflict mitigation measures : lessons from Bangladesh",
+            "link": "https://portals.iucn.org/library/node/46404",
+            "category": "M"
         }
     ],
     "2015": [
@@ -1527,6 +1547,16 @@
         {
             "title": "Local Usage of Tiger Parts and Its Role in Tiger Killing in the Bangladesh Sundarbans",
             "link": "https://www.tandfonline.com/doi/full/10.1080/10871209.2015.1107786",
+            "category": "M"
+        },
+        {
+            "title": "Modelling spatial distribution of critically endangered Asian elephant and Hoolock gibbon in Bangladesh forest ecosystems under a changing climate",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0143622815000570",
+            "category": "M"
+        },
+        {
+            "title": "Fatal Elephant Encounters on Humans in Bangladesh: Context and Incidences",
+            "link": "https://ccsenet.org/journal/index.php/enrr/article/view/46830",
             "category": "M"
         }
     ],
@@ -1901,6 +1931,11 @@
         {
             "title": "Distribution of Rhesus Macaques (Macaca mulatta) in Bangladesh: Inter-population Variation in Group Size and Composition",
             "link": "https://bioone.org/journals/primate-conservation/volume-26/issue-1/052.026.0103/Distribution-of-Rhesus-Macaques-Macaca-mulatta-in-Bangladesh--Inter/10.1896/052.026.0103.full",
+            "category": "M"
+        },
+        {
+            "title": "Elephant Habitat and Human-Elephant Conflict : A Case Study in Chunati Wildlife Sanctuary , Bangladesh",
+            "link": "https://www.semanticscholar.org/paper/Elephant-Habitat-and-Human-Elephant-Conflict-%3A-A-in-Kabir/94817a09735dd6a82f2c5fb607fcd84df028aeb2",
             "category": "M"
         }
     ],
@@ -2578,6 +2613,11 @@
             "title": "Epidemiology of snake bite in Bangladesh. Bangladesh",
             "link": "https://research.tees.ac.uk/en/publications/epidemiology-of-snake-bite-in-bangladesh-bangladesh",
             "category": "R"
+        },
+        {
+            "title": "Reproductive Biology of the Indian Roofed Turtle, Kachuga tecta, in Bangladesh",
+            "link": "https://chelonian.org/wp-content/uploads/file/CCB%20Vol%201%20No%203%20(1995)/Hossain_and_Sarker_1995.pdf",
+            "category": "R"
         }
     ],
     "2000": [
@@ -2602,6 +2642,11 @@
             "title": "Activities of the little cormorant, Phalacrocorax niger (Vieillot) in relation to sunlight in captivity",
             "link": "https://www.nepjol.info/index.php/ECO/article/view/3200",
             "category": "B"
+        },
+        {
+            "title": "Bats of Bangladesh with notes on the status, distribution and habitat ",
+            "link": "https://www.zoosprint.zooreach.org/ZoosPrintNewsLetter/bat%20newsletter%20jan%2005.pdf",
+            "category": "M"
         }
     ],
     "1992": [
@@ -2656,6 +2701,13 @@
             "title": "A Note on the Occurrence of the Roofed Turtle, Kachuga tecta in Saline Water in Southern Bangladesh",
             "link": "https://www.thebhs.org/publications/the-herpetological-bulletin/issue-number-37-autumn-1991/2429-hb037-03?highlight=WyJiYW5nbGFkZXNoIl0=",
             "category": "R"
+        }
+    ],
+    "1985": [
+        {
+            "title": "BIRDS OF PREY AND THEIR CONSERVATION IN THE SUNDARBANS MANGROVE FORESTS, KHULNA, BANGLADESH ",
+            "link": "http://www.raptors-international.org/book/conservation_studies_on_raptors_1985/Sarker_Sarker_1985_205-209.pdf",
+            "category": "B"
         }
     ]
 }
