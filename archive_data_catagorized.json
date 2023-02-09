@@ -2166,6 +2166,11 @@
             "title": "Current status of Asian elephants in Bangladesh",
             "link": "https://asesg.org/gajah35.php",
             "category": "M"
+        },
+        {
+            "title": "Xenochrophis cerasogaster (Cantor, 1839) (Serpentes: Colubridae): distribution extension in Bangladesh",
+            "link": "https://checklist.pensoft.net/article/18219/",
+            "category": "R"
         }
     ],
     "2010": [
@@ -2693,6 +2698,11 @@
         {
             "title": "Ecology of Avifauna in Green Spaces of a Sub-Tropical Urban Landscape: Community Structure and Habitat Preference",
             "link": "https://www.banglajol.info/index.php/jbcbm/article/view/63816",
+            "category": "B"
+        },
+        {
+            "title": "Avifauna in an Urban Landscape of a Lower Ganges District Of Bangladesh: Community Structure, Seasonality, Habitat Preference and Conservation Issues",
+            "link": "https://www.banglajol.info/index.php/DUJBS/article/view/60892",
             "category": "B"
         }
     ],
