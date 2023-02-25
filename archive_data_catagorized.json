@@ -2293,6 +2293,11 @@
             "title": "Surveys for the Critically Endangered Spoon-billed Sandpiper in Bangladesh",
             "link": "https://static1.squarespace.com/static/5c1a9e03f407b482a158da87/t/5c252b45c2241b5a1af70df3/1545939789631/P894-Spoon-billed-Sandpiper-surveys-Bangladesh.pdf",
             "category": "B"
+        },
+        {
+            "title": "Comparative Efficiency of Some Indigenous Traps to Capture Rats in the Wheat Field of Bangladesh",
+            "link": "https://www.banglajol.info/index.php/JARD/article/view/4431",
+            "category": "M"
         }
     ],
     "2009": [
@@ -2626,6 +2631,11 @@
             "title": "Status of the Ganges river dolphin or shushuk Platanista gangetica in Kaptai Lake and the southern rivers of Bangladesh",
             "link": "https://www.cambridge.org/core/journals/oryx/article/status-of-the-ganges-river-dolphin-or-shushuk-platanista-gangetica-in-kaptai-lake-and-the-southern-rivers-of-bangladesh/BD204AD6C4DCCA66C5A0388F89DD4345",
             "category": "M"
+        },
+        {
+            "title": "Status and distribution of bats in Bangladesh with notes on their ecology",
+            "link": "https://www.zoosprint.zooreach.org/index.php/zpj/article/view/5914",
+            "category": "M"
         }
     ],
     "1995": [
@@ -2729,6 +2739,11 @@
             "title": "Avifauna in an Urban Landscape of a Lower Ganges District Of Bangladesh: Community Structure, Seasonality, Habitat Preference and Conservation Issues",
             "link": "https://www.banglajol.info/index.php/DUJBS/article/view/60892",
             "category": "B"
+        },
+        {
+            "title": "Effects of the temperature on activity patterns and torpor in Saccolaimus saccolaimus in Bangladesh with notes on its morphometrics and roosting behaviour",
+            "link": "https://secemu.org/journal-of-bat-research-and-conservation/all-issues/journal-of-bat-research-conservation-15/",
+            "category": "M"
         }
     ],
     "1991": [
@@ -2743,6 +2758,13 @@
             "title": "BIRDS OF PREY AND THEIR CONSERVATION IN THE SUNDARBANS MANGROVE FORESTS, KHULNA, BANGLADESH ",
             "link": "http://www.raptors-international.org/book/conservation_studies_on_raptors_1985/Sarker_Sarker_1985_205-209.pdf",
             "category": "B"
+        }
+    ],
+    "1993": [
+        {
+            "title": "The effects of rat damage on deepwater rice yields in Bangladesh",
+            "link": "https://www.tandfonline.com/doi/abs/10.1080/09670879309371799?journalCode=ttpm20",
+            "category": "M"
         }
     ]
 }
