@@ -199,6 +199,11 @@
             "title": "Human-elephant conflicts in the Teknaf Wildlife Sanctuary in Bangladesh",
             "link": "https://crimsonpublishers.com/boj/pdf/BOJ.000557.pdf",
             "category": "M"
+        },
+        {
+            "title": "The role of law in conserving wildlife in Bangladesh",
+            "link": "https://www.tandfonline.com/doi/abs/10.1080/00207233.2022.2103998",
+            "category": "M"
         }
     ],
     "2021": [
@@ -2682,6 +2687,11 @@
             "title": "Bats of Bangladesh with notes on the status, distribution and habitat ",
             "link": "https://www.zoosprint.zooreach.org/ZoosPrintNewsLetter/bat%20newsletter%20jan%2005.pdf",
             "category": "M"
+        },
+        {
+            "title": "Wildlife Biodiversity in Bhawal National Park",
+            "link": "https://www.nepjol.info/index.php/ON/article/view/340/332",
+            "category": "ARBM"
         }
     ],
     "1992": [
@@ -2764,6 +2774,13 @@
         {
             "title": "The effects of rat damage on deepwater rice yields in Bangladesh",
             "link": "https://www.tandfonline.com/doi/abs/10.1080/09670879309371799?journalCode=ttpm20",
+            "category": "M"
+        }
+    ],
+    "1983": [
+        {
+            "title": "The sundarbans wildlife management plan",
+            "link": "https://repository.si.edu/bitstream/handle/10088/6652/6E755BE9-F6AC-4F0E-9CF0-5752AA7BB76C.pdf",
             "category": "M"
         }
     ]
