@@ -63,6 +63,26 @@
         "Title":"Indain Bull Frog",
         "Tags":["indain bull frog","frog","hoplobatrachus tigerinus","bull frog","hoplobatrachus","anura","asian bull frog","kola bang","amphiabia","bang","সোনা ব্যাঙ","dicroglossidae","কোলা ব্যাঙ"," bang","সোনা ব্যাঙ","ব্যাঙ"],
         "Link":"/Amphibia/IndianBullFrog/"
+    },
+    {
+        "Title":"Indain Rat Snake",
+        "Tags":["Indain Rat Snake","rat","sanke","rat snake","Ptyas mucosa ","Colubridae","Ptyas","sap","Reptile","সাপ","দাঁড়াশ","দাঁড়াশ সাপ","সরীসৃপ"," squamata","দারাস","দারাশ"],
+        "Link":"/Reptile/IndianRatSnake/"
+    },
+    {
+        "Title":"Checkered Keelback",
+        "Tags":["Checkered Keelback","Asiatic Water Snakes","sanke","water snake","Fowlea piscator ","Colubridae","keelback","Fowlea","sap","Reptile","সাপ","Xenochrophis piscator","Xenochrophis","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","natricidae"],
+        "Link":"/Reptile/CheckeredKeelback/"
+    },
+    {
+        "Title":"Red-necked Keelback",
+        "Tags":["Red-necked Keelback","red necked","sanke","venomous snake","Rhabdophis subminiatus  ","keelback","Colubridae","rhabdophis","sap","Reptile","সাপ","red","poisonous","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","লাল ঘাড় ঢোঁড়া","লাল","natricidae"],
+        "Link":"/Reptile/RedNeckedKeelback/"
+    },
+    {
+        "Title":"Striped keelback",
+        "Tags":["Striped keelback","striped Keelback","Buff-striped Keelback","sanke","non-venomous snake","Amphiesma stolatum ","keelback","Colubridae","amphiesma","sap","Reptile","সাপ","striped","reptilia","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","দাগি ঢোড়া সাপ ","দাগি সাপ ","natricidae"],
+        "Link":"/Reptile/StripedKeelback/"
     }
     
 ]
