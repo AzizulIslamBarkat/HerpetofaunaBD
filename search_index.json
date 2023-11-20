@@ -66,23 +66,43 @@
     },
     {
         "Title":"Indain Rat Snake",
-        "Tags":["Indain Rat Snake","rat","sanke","rat snake","Ptyas mucosa ","Colubridae","Ptyas","sap","Reptile","সাপ","দাঁড়াশ","দাঁড়াশ সাপ","সরীসৃপ"," squamata","দারাস","দারাশ"],
+        "Tags":["indain rat snake","rat","sanke","rat snake","ptyas mucosa ","colubridae","ptyas","sap","reptile","সাপ","দাঁড়াশ","দাঁড়াশ সাপ","সরীসৃপ"," squamata","দারাস","দারাশ"],
         "Link":"/Reptile/IndianRatSnake/"
     },
     {
         "Title":"Checkered Keelback",
-        "Tags":["Checkered Keelback","Asiatic Water Snakes","sanke","water snake","Fowlea piscator ","Colubridae","keelback","Fowlea","sap","Reptile","সাপ","Xenochrophis piscator","Xenochrophis","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","natricidae"],
+        "Tags":["checkered keelback","asiatic water snakes","sanke","water snake","fowlea piscator ","colubridae","keelback","fowlea","sap","Reptile","সাপ","xenochrophis piscator","xenochrophis","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","natricidae"],
         "Link":"/Reptile/CheckeredKeelback/"
     },
     {
         "Title":"Red-necked Keelback",
-        "Tags":["Red-necked Keelback","red necked","sanke","venomous snake","Rhabdophis subminiatus  ","keelback","Colubridae","rhabdophis","sap","Reptile","সাপ","red","poisonous","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","লাল ঘাড় ঢোঁড়া","লাল","natricidae"],
+        "Tags":["red-necked keelback","red necked","sanke","venomous snake","rhabdophis subminiatus  ","keelback","colubridae","rhabdophis","sap","reptile","সাপ","red","poisonous","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","লাল ঘাড় ঢোঁড়া","লাল","natricidae"],
         "Link":"/Reptile/RedNeckedKeelback/"
     },
     {
         "Title":"Striped keelback",
-        "Tags":["Striped keelback","striped Keelback","Buff-striped Keelback","sanke","non-venomous snake","Amphiesma stolatum ","keelback","Colubridae","amphiesma","sap","Reptile","সাপ","striped","reptilia","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","দাগি ঢোড়া সাপ ","দাগি সাপ ","natricidae"],
+        "Tags":["striped keelback","striped keelback","buff-striped keelback","sanke","non-venomous snake","amphiesma stolatum ","keelback","colubridae","amphiesma","sap","reptile","সাপ","striped","reptilia","সরীসৃপ"," squamata","ঢোঁড়া সাপ","ঢোড়া","দাগি ঢোড়া সাপ ","দাগি সাপ ","natricidae"],
         "Link":"/Reptile/StripedKeelback/"
+    },
+    {
+        "Title":"Common Wolf Snake",
+        "Tags":["common wolf snake","common wolf snake","lycodon aulicus ","sanke","non-venomous snake","lycodon","wolf","colubridae","lycodon ","sap","reptile","সাপ","ঘরগিন্নি","reptilia","সরীসৃপ"," squamata","ঘরগিন্নি সাপ","ঘরগিন্নি","ghor ginni ","ghorginni sap ","ghorginni"],
+        "Link":"/Reptile/CommonWolfSnake/"
+    },
+    {
+        "Title":"Dog-faced Water Snake",
+        "Tags":["dog-faced water wnake","water snake","cerberus rynchops  ","sanke","mildly venomous snake","cerberus ","dog","homalopsidae","water","sap","reptile","সাপ","জলবোড়া ","reptilia","সরীসৃপ"," squamata","ঘজলবোড়া সাপ","কুকুর","kukur mukho sap ","jolbora","zolbora"],
+        "Link":"/Reptile/DogFacedWaterSnake/"
+    },
+    {
+        "Title":"Khasi Hill Long-Tailed Lizard",
+        "Tags":["reptile","lizard","takydromus khasiensis ","lacertidae","takydromus","squamata","khasi hill long-tailed lizardr","আলম্বা লেজি রক্তচোষা","reptilia","rokto chosha","roktochocha"," long tail lizard","khashi hill lizard","koKhasi hill lizard ","রক্তচোষা"],
+        "Link":"/Reptile/KhasiHillLongTailedLizard/"
+    },
+    {
+        "Title":"Tokay Gecko",
+        "Tags":["reptile","lizard","gekko gecko  ","gekkonidae","tgekko","squamata","tokay gecko","তক্ষক","reptilia","gecko","tokshok"," tokay lizard","tokkhok","tiktiki ","টিকটিকি"],
+        "Link":"/Reptile/TokayGecko/"
     }
-    
+     
 ]
