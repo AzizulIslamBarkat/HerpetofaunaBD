@@ -136,8 +136,18 @@
     },
     {
         "Title":"Copes Frog/ Assam Forest frog",
-        "Tags":["copes frog ","assam forest frog","hydrophylax leptoglossus ","আসাম ব্যাঙ","hydrophylax","anura","assam frog","murgi daka bang","amphiabia","bang","কোপের ব্যাঙ","ranidae","মুরগী ডাকা ব্যাঙ"," hylarana","ব্যাঙ"],
+        "Tags":["copes frog ","assam forest frog","hydrophylax leptoglossus","আসাম ব্যাঙ","hydrophylax","anura","assam frog","murgi daka bang","amphiabia","bang","কোপের ব্যাঙ","ranidae","মুরগী ডাকা ব্যাঙ"," hylarana","ব্যাঙ"],
         "Link":"/Amphibia/CopesFrog/"
+    },
+    {
+        "Title":"Yellow-striped Frog/ Leaf Frog",
+        "Tags":["yellow-striped frog","leaf frog","hylarana tytleri","পানা ব্যাঙ","hylarana","anura","assam frog","pana bang","amphiabia","bang","ranidae","frog"," hylarana","ব্যাঙ"],
+        "Link":"/Amphibia/YellowStripedFrog/"
+    },
+    {
+        "Title":"Jerdon's Bullfrog",
+        "Tags":["jerdon's bullfrog","frog","hoplobatrachus crassus","bull frog","hoplobatrachus","anura","asian bull frog","kola bang","amphiabia","bang","সোনা ব্যাঙ","dicroglossidae","কোলা ব্যাঙ"," bang","সোনা ব্যাঙ","ব্যাঙ"],
+        "Link":"/Amphibia/JerdonsBullfrog/"
     }
      
 ]
