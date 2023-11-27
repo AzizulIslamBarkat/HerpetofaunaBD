@@ -121,7 +121,7 @@
     },
     {
         "Title":"Rainbow Water Snake",
-        "Tags":["rainbow snake","rainbow water nake","snake","mud snake","common smooth-scaled water snake","reptile","পাইন্না সাপ","পাইন্না","সাপ","enhydris","enhydris enhydris "," Homalopsidae","ovoviviparous"],
+        "Tags":["rainbow snake","rainbow water nake","snake","mud snake","common smooth-scaled water snake","reptile","পাইন্না সাপ","পাইন্না","সাপ","enhydris","enhydris enhydris "," homalopsidae","ovoviviparous"],
         "Link":"/Reptile/RainbowWaterSnake/"
     },
     {
@@ -148,6 +148,11 @@
         "Title":"Jerdon's Bullfrog",
         "Tags":["jerdon's bullfrog","frog","hoplobatrachus crassus","bull frog","hoplobatrachus","anura","asian bull frog","kola bang","amphiabia","bang","সোনা ব্যাঙ","dicroglossidae","কোলা ব্যাঙ"," bang","সোনা ব্যাঙ","ব্যাঙ"],
         "Link":"/Amphibia/JerdonsBullfrog/"
+    },
+    {
+        "Title":"Spot-tailed pit viper/ Red tail Pit Viper ",
+        "Tags":["spot-tailed pit viper","red tail pit viper","snake","pit viper","viper","reptile","সবুজ বোড়া সাপ","বোড়া সাপ","সাপ","trimeresurus","trimeresurus erythrurus ","viperidae","ovoviviparous","sobuj bora sap","sap"],
+        "Link":"/Reptile/SpotTailedPitViper/"
     }
      
 ]
