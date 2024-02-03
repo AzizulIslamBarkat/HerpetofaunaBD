@@ -234,6 +234,16 @@
             "title": "STATUS AND DISTRIBUTION OF ASSAMESE MACAQUE Macaca assamensis IN BANGLADESH",
             "link": "http://www.primate-sg.org/asian-primates-10-1/",
             "category": "M"
+        },
+        {
+            "title": "A Proposed Safari Park in a Subtropical Forest in Northeastern Bangladesh Will Be Detrimental to Native Biodiversity",
+            "link": "https://www.mdpi.com/2673-7159/2/2/20",
+            "category": "ARBM"
+        },
+        {
+            "title": "Appraisal of domestic and international legal institutions for promoting wildlife conservation in Bangladesh",
+            "link": "https://link.springer.com/article/10.1007/s10531-022-02507-5",
+            "category": "ARBM"
         }
     ],
     "2021": [
@@ -541,6 +551,11 @@
             "title": "Application of Multi-Species Occupancy Modeling to assess mammal diversity in northeast Bangladesh",
             "link": "https://www.sciencedirect.com/science/article/pii/S2351989420309264",
             "category": "M"
+        },
+        {
+            "title": "The COVID-19 pandemic: A threat to forest and wildlife conservation in Bangladesh?",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666719321000583",
+            "category": "RM"
         }
     ],
     "2020": [
@@ -1257,6 +1272,11 @@
             "title": "The first complete mitogenome of Indian star tortoise (Geocheloneelegans)",
             "link": "https://www.tandfonline.com/doi/epdf/10.1080/23802359.2018.1507656?needAccess=true",
             "category": "R"
+        },
+        {
+            "title": "Biodiversity in Bangladesh",
+            "link": "https://www.researchgate.net/publication/326380410_Biodiversity_in_Bangladesh",
+            "category": "ARBM"
         }
     ],
     "2017": [
@@ -3458,6 +3478,31 @@
         {
             "title": "Ecology Of Bengal Fox (Vulpes Bengalensis) In Northwest Bangladesh",
             "link": "https://www.banglajol.info/index.php/BJZ/article/view/67042",
+            "category": "M"
+        },
+        {
+            "title": "BANGLADESH WILDLIFE: A CALL TO ARREST ITS DECLINATION THROUGH REMEDIAL POLICIES AND MANAGEMENT",
+            "link": "https://kus.ku.ac.bd/kustudies/article/view/1041",
+            "category": "ARBM"
+        },
+        {
+            "title": "Wild Animal Conservation Efforts of the International Institutions in the World's Largest Mangrove Forest in Bangladesh",
+            "link": "https://link.springer.com/article/10.1134/S1995425523020099",
+            "category": "M"
+        },
+        {
+            "title": "Combating illegal wildlife trade and conserving biodiversity in Bangladesh through legal provisions",
+            "link": "https://brill.com/view/journals/ijee/69/03-04/article-p127_007.xml",
+            "category": "M"
+        },
+        {
+            "title": "Are the Sundarbans mangrove forest management policies adequate to conserve wildlife species?",
+            "link": "https://link.springer.com/article/10.1007/s10531-023-02708-6",
+            "category": "MR"
+        },
+        {
+            "title": "A Reality Check of the Global TX2 Goals of Doubling the Bengal Tiger (Panthera tigris tigris) Population by 2022 in the Sundarbans Mangrove Forest",
+            "link": "https://link.springer.com/article/10.1134/S1995425523060112",
             "category": "M"
         }
     ],
