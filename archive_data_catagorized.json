@@ -2195,6 +2195,11 @@
             "title": "https:Radio-telemetry study of Burmese python (Python molurus bivittatus) and elongated tortoise (Indotestudo elongata) in Lawachara National Park, Bangladesh:a preliminary observation",
             "link": "https://docslib.org/doc/11040876/python-molurus-bivittatus-and-elongated-tortoise-indotestudo-elongata-in-lawachara-national-park-bangladesh-a-preliminary-observation",
             "category": "R"
+        },
+        {
+            "title": "Amphibians and Reptiles of Bangladesh A Field Guide",
+            "link": "https://arannayk.org/storage/photos/aqndpQpReM5SZJwb1ivyoIafO1RwCRDg7Mlj9lCg.pdf",
+            "category": "AR"
         }
     ],
     "2013": [
@@ -3634,6 +3639,28 @@
             "title": "Rediscovery of the Black-banded sea snake Hydrophis nigrocinctus (Daudin, 1803) (Reptilia: Elapidae: Hydrophiinae) after over a century, with notes on reproduction and conservation status",
             "link": "https://hamadryad.org/index.php/journal/article/view/125",
             "category": "R"
+        },
+        {
+            "title": "Combining species distribution models and big datasets may provide finer assessments of snakebite impacts",
+            "link": "https://www.researchgate.net/publication/380731763_Combining_species_distribution_models_and_big_datasets_may_provide_finer_assessments_of_snakebite_impacts",
+            "category": "R"
+        },
+        {
+            "title": "On news reports of the Ganges River dolphin (Platanista gangetica), Bangladesh",
+            "link": "https://www.taprobanica.org/Archives/Volume-9-14-2020-26/Volume-13-Number-1-May-2024/v13i1328.html",
+            "category": "M"
+        },
+        {
+            "title": "First record of the Brown Blotched Bengal Treefrog, Polypedates bengalensis Purkayastha et al., 2019, from Bangladesh",
+            "link": "https://www.biotaxa.org/hn/article/view/83957",
+            "category": "A"
+        }
+    ],
+    "2028": [
+        {
+            "title": "Photographic guide to the wildlife of Bangladesh",
+            "link": "https://arannayk.org/storage/photos/jnGSyKDti7XHhWGcMDW4rMgw84aT4Ist12iYnEGs.pdf",
+            "category": "ARBM"
         }
     ]
 }
