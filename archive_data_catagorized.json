@@ -1282,6 +1282,11 @@
             "title": "Biodiversity in Bangladesh",
             "link": "https://www.researchgate.net/publication/326380410_Biodiversity_in_Bangladesh",
             "category": "ARBM"
+        },
+         {
+            "title": "Photographic guide to the wildlife of Bangladesh",
+            "link": "https://arannayk.org/storage/photos/jnGSyKDti7XHhWGcMDW4rMgw84aT4Ist12iYnEGs.pdf",
+            "category": "ARBM"
         }
     ],
     "2017": [
@@ -3654,13 +3659,6 @@
             "title": "First record of the Brown Blotched Bengal Treefrog, Polypedates bengalensis Purkayastha et al., 2019, from Bangladesh",
             "link": "https://www.biotaxa.org/hn/article/view/83957",
             "category": "A"
-        }
-    ],
-    "2028": [
-        {
-            "title": "Photographic guide to the wildlife of Bangladesh",
-            "link": "https://arannayk.org/storage/photos/jnGSyKDti7XHhWGcMDW4rMgw84aT4Ist12iYnEGs.pdf",
-            "category": "ARBM"
         }
     ]
 }
