@@ -556,6 +556,16 @@
             "title": "The COVID-19 pandemic: A threat to forest and wildlife conservation in Bangladesh?",
             "link": "https://www.sciencedirect.com/science/article/pii/S2666719321000583",
             "category": "RM"
+        },
+        {
+            "title": "EXTIRPATED OR IGNORED? FIRST EVIDENCE OF BENGAL SLOW LORIS Nycticebus bengalensis FROM MADHUPUR NATIONAL PARK, BANGLADESH",
+            "link": "https://www.researchgate.net/publication/353769051_EXTIRPATED_OR_IGNORED_FIRST_EVIDENCE_OF_BENGAL_SLOW_LORIS_Nycticebus_bengalensis_FROM_MADHUPUR_NATIONAL_PARK_BANGLADESH",
+            "category": "M"
+        },
+        {
+            "title": "Mammalian Species Diversity in Hazarikhil Wildlife Sanctuary of Bangladesh",
+            "link": "https://bjfsbd.org/wp-content/uploads/2023/08/vol.37-2-article-6.pdf",
+            "category": "M"
         }
     ],
     "2020": [
@@ -1065,6 +1075,11 @@
             "title": "Population genetics of fruit bat reservoir informs the dynamics, distribution and diversity of Nipah virus",
             "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15288",
             "category": "M"
+        },
+        {
+            "title": "Status of tiger in the Sundarban of Bangladesh 2018",
+            "link": "https://www.researchgate.net/publication/333508571_Status_of_tiger_in_the_Sundarban_of_Bangladesh_2018",
+            "category": "M"
         }
     ],
     "2018": [
@@ -1464,6 +1479,11 @@
             "title": "Using non-invasively collected genetic data to estimate density and population size of tigers in the Bangladesh Sundarbans",
             "link": "https://www.sciencedirect.com/science/article/pii/S2351989417301130",
             "category": "M"
+        },
+        {
+            "title": "BIODIVERSITY POSITION OF MADHUTILA ECO-PARK IN SHERPUR, BANGLADESH",
+            "link": "https://www.researchgate.net/publication/327262612_BIODIVERSITY_POSITION_OF_MADHUTILA_ECO-PARK_IN_SHERPUR_BANGLADESH",
+            "category": "ARBM"
         }
     ],
     "2016": [
@@ -1651,6 +1671,11 @@
             "title": "Toward Human-Carnivore Coexistence: Understanding Tolerance for Tigers in Bangladesh",
             "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0145913",
             "category": "M"
+        },
+        {
+            "title": "AVI-FAUNA OF HAZARIKHIL WILDLIFE SANCTUARY OF BANGLADESH",
+            "link": "https://www.ijbssr.com/journal/details/avi-fauna-of-hazarikhil-wildlife-sanctuary-of-bangladesh-14013457",
+            "category": "B"
         }
     ],
     "2015": [
@@ -3534,6 +3559,21 @@
             "title": "CONSERVATION ACTION PLAN FOR GANGES RIVER DOLPHIN AND IRRAWADDY DOLPHIN OF BANGLADESH 2021-2030",
             "link": "https://www.researchgate.net/publication/373999674_CONSERVATION_ACTION_PLAN_FOR_GANGES_RIVER_DOLPHIN_AND_IRRAWADDY_DOLPHIN_OF_BANGLADESH_2021-2030",
             "category": "M"
+        },
+        {
+            "title": "Diet, Feeding Habit and Behavioral Activity of Rhesus Macaque (Macaca mulatta) at Charmuguria of Madaripur, Bangladesh",
+            "link": "https://jnu.ac.bd/journal/portal/archives/lifescience/9/2.jsp",
+            "category": "M"
+        },
+        {
+            "title": "Heterogeneric Diversity and Richness of Avifauna in a Degraded Landscape of Arial Beel in Bangladesh",
+            "link": "https://jnu.ac.bd/journal/portal/archives/lifescience/9/1.jsp",
+            "category": "B"
+        },
+        {
+            "title": "Relative Abundance, Diversity and Threats of Avian Fauna at Dhanmondi Lake in Dhaka, Bangladesh",
+            "link": "https://jnu.ac.bd/journal/portal/archives/lifescience/9/1.jsp",
+            "category": "B"
         }
     ],
     "1991": [
@@ -3689,6 +3729,16 @@
             "title": "Use of roads by Rainbow Mud Snakes (Enhydris enhydris) during parturition",
             "link": "https://journals.ku.edu/reptilesandamphibians/article/view/21322",
             "category": "R"
+        },
+        {
+            "title": "Occurrence and temporal activity pattern of Burmese Red Serow (Capricornis rubidus, Bovidae) in Baraiyadhala National Park, Bangladesh: insights from a camera trapping study",
+            "link": "https://www.degruyter.com/document/doi/10.1515/mammalia-2023-0082/html",
+            "category": "M"
+        },
+        {
+            "title": "Assessing Species-Level Identification of Some Cryptic Frog Species of Bangladesh Using 16s and 12s Rrna Genes",
+            "link": "https://www.researchgate.net/publication/383643548_Assessing_Species-Level_Identification_of_Some_Cryptic_Frog_Species_of_Bangladesh_Using_16s_and_12s_Rrna_Genes",
+            "category": "A"
         }
     ]
 }
