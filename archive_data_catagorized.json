@@ -828,6 +828,11 @@
             "title": "Conservation status of wildlife of Bangladesh",
             "link": "https://www.researchgate.net/publication/342010647_Conservation_status_of_wildlife_of_Bangladesh",
             "category": "ARBM"
+        },
+        {
+            "title": "Birds of the Bangladesh Sundarbans: status, threats and conservation recommendations",
+            "link": "https://static1.squarespace.com/static/5c1a9e03f407b482a158da87/t/657ae76af7b2876fdc633dcf/1702553451521/Sundarbans.pdf",
+            "category": "B"
         }
     ],
     "2019": [
@@ -2599,6 +2604,11 @@
             "title": "Assessing the threat of human consumption of tiger prey in the Bangladesh Sundarbans",
             "link": "https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1111/j.1469-1795.2012.00571.x",
             "category": "M"
+        },
+        {
+            "title": "Survey and conservation of the critically endangered Spoon-billed Sandpiper in Bangladesh",
+            "link": "https://d1wqtxts1xzle7.cloudfront.net/67044555/j.1474-919x.2011.01191.x20210504-12202-33n0ht-libre.pdf?1620192959=&response-content-disposition=inline%3B+filename%3DSurvey_and_conservation_of_the_criticall.pdf&Expires=1726140031&Signature=GgDDqE7HmQkzzsAMGv5VoScA61JoptHTACsZaGjBwR5XfVrEWORIVcPfZU24zOcGc8tNa9RM13Wr3SFoMErF1HcsgF6nFMHYtTzbr-FY7gjIZf02BehR0ZRuS-TVvwttI4DDA71hM2WFvWeUocd-ELcNzuj1xbM37TLiJH9WC7wB3X37JvXKKPa74Vra9xm1mfqrZFYShW0QewoLyrcPpJ7n42ght45-bjGoO7Pfc7Me1ommZDOB4RNLZs8FxlPd4oRycmFaFh0eb6FGryQyF-yozbWAZmBHA~jmmhSP6W71NLFT~tuKeZx7Ir8Ls5RQthqQueJ6QjqNtdpclxnydw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+            "category": "B"
         }
     ],
     "2011": [
@@ -3277,6 +3287,16 @@
             "title": "Study on Human Royal Bengal Tiger Interaction of in situ and ex situ in Bangladesh",
             "link": "https://scialert.net/fulltext/?doi=jbs.2005.250.252",
             "category": "M"
+        },
+        {
+            "title": "SHOREBIRD ABUNDANCE IN THE WESTERN PART OF CHAR BAHAUDDIN DURING NORTHWARD MIGRATION",
+            "link": "https://awsg.org.au/wp-content/uploads/2020/11/Stilt-48.pdf#page=36",
+            "category": "B"
+        },
+        {
+            "title": "CONSERVATION VALUES OF THE SOUTH-CENTRAL COAST OF GANGES DELTA -\tRECORD FLOCK OF INDIAN SKIMMERS",
+            "link": "https://awsg.org.au/wp-content/uploads/2020/11/Stilt-47.pdf#page=4",
+            "category": "B"
         }
     ],
     "1992": [
@@ -3739,6 +3759,23 @@
             "title": "Assessing Species-Level Identification of Some Cryptic Frog Species of Bangladesh Using 16s and 12s Rrna Genes",
             "link": "https://www.researchgate.net/publication/383643548_Assessing_Species-Level_Identification_of_Some_Cryptic_Frog_Species_of_Bangladesh_Using_16s_and_12s_Rrna_Genes",
             "category": "A"
+        },
+        {
+            "title": "An observation of drinking behavior by a Green Cat Snake, Boiga cyanea (Dumeril, Bibron, and Dumeril 1854)",
+            "link": "https://journals.ku.edu/reptilesandamphibians/article/view/21444",
+            "category": "R"
+        },
+        {
+            "title": "Synergistic effects of climate and urbanisation on the diet of a globally near threatened subtropical falcon",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.70290",
+            "category": "B"
+        }
+    ],
+    "1987": [
+        {
+            "title": "Conservation of Storks and Other Waterbirds in Bangladesh",
+            "link": "https://www.jstor.org/stable/1521262",
+            "category": "B"
         }
     ]
 }
