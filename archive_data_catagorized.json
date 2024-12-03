@@ -833,6 +833,11 @@
             "title": "Birds of the Bangladesh Sundarbans: status, threats and conservation recommendations",
             "link": "https://static1.squarespace.com/static/5c1a9e03f407b482a158da87/t/657ae76af7b2876fdc633dcf/1702553451521/Sundarbans.pdf",
             "category": "B"
+        },
+        {
+            "title": "Towards reducing the data gap in the conservation efforts for sea turtles in Bangladesh",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S2352485519303317",
+            "category": "R"
         }
     ],
     "2019": [
@@ -1307,6 +1312,11 @@
             "title": "Photographic guide to the wildlife of Bangladesh",
             "link": "https://arannayk.org/storage/photos/jnGSyKDti7XHhWGcMDW4rMgw84aT4Ist12iYnEGs.pdf",
             "category": "ARBM"
+        },
+        {
+            "title": "Conservation Status of Black Soft Shell Turtle (Nilssonia nigricans) in Bangladesh",
+            "link": "https://www.researchgate.net/publication/327120478_Conservation_Status_of_Black_Soft_Shell_Turtle_Nilssonia_nigricans_in_Bangladesh",
+            "category": "R"
         }
     ],
     "2017": [
@@ -2447,6 +2457,16 @@
             "title": "Profiling tigers (Panthera tigris) to formulate management responses to human-killing in the Bangladesh Sundarbans",
             "link": "https://www.researchgate.net/publication/260158565_Profiling_tigers_Panthera_tigris_to_formulate_management_responses_to_human-killing_in_the_Bangladesh_Sundarbans#:~:text=An%20estimated%2050%25%20of%20tigers%20only%20killed%20one,number%20of%20humans%20killed%20by%20tigers%20over%20time.",
             "category": "M"
+        },
+        {
+            "title": "Illegal Marketing of Freshwater Turtles and Tortoises in Different Markets of Bangladesh",
+            "link": "https://www.idosi.org/aejsr/8(1)13/3.pdf",
+            "category": "R"
+        },
+        {
+            "title": "Population dynamics of rhesus macaques and associated foamy virus in Bangladesh",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3675400/",
+            "category": "M"
         }
     ],
     "2012": [
@@ -2878,6 +2898,11 @@
             "title": "Examining certain aspects of human-tiger conflict in the Sundarbans forest, Bangladesh",
             "link": "http://re.indiaenvironmentportal.org.in/files/human%20tiger%20conflict.pdf",
             "category": "M"
+        },
+        {
+            "title": "First record of amphiesma venningi (wall, 1910) (serpentes, colubridae, natricinae) from bangladesh, with notes on its taxonomy, natural history, biogeography and other sympatric species",
+            "link": "https://www.researchgate.net/publication/287096473_First_record_of_amphiesma_venningi_wall_1910_serpentes_colubridae_natricinae_from_bangladesh_with_notes_on_its_taxonomy_natural_history_biogeography_and_other_sympatric_species",
+            "category": "R"
         }
     ],
     "2009": [
@@ -3042,6 +3067,11 @@
             "title": "Linking monitoring and intervention for improved management of tigers in the Sundarbans of Bangladesh",
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S0006320708002036",
             "category": "M"
+        },
+        {
+            "title": "Seasonal variations of fruit preference among frugivorous birds in Chittagong, Bangladesh",
+            "link": "https://www.researchgate.net/publication/303659338_Seasonal_variations_of_fruit_preference_among_frugivorous_birds_in_Chittagong_Bangladesh",
+            "category": "B"
         }
     ],
     "2007": [
@@ -3109,6 +3139,16 @@
             "title": "Habitat preferences of tigers Panthera tigris in the Sundarbans East Wildlife Sanctuary, Bangladesh, and management recommendations",
             "link": "https://www.cambridge.org/core/journals/oryx/article/habitat-preferences-of-tigers-panthera-tigris-in-the-sundarbans-east-wildlife-sanctuary-bangladesh-and-management-recommendations/DE4364A65FBF4D678DD09F826A7062DC",
             "category": "M"
+        },
+        {
+            "title": "Observations on fruit handling techniques of frugivorous birds in Chittagong, Bangladesh",
+            "link": "https://zoosprint.org/index.php/zpj/article/view/6870",
+            "category": "B"
+        },
+        {
+            "title": "Additions to the birds of the Chittagong University Campus",
+            "link": "https://www.researchgate.net/publication/303659298_Additions_to_the_birds_of_the_Chittagong_University_Campus",
+            "category": "B"
         }
     ],
     "2006": [
@@ -3146,6 +3186,11 @@
             "title": "Abundance of Irrawaddy dolphins (Orcaella brevirostris) and Ganges River dolphins (Plantanista gangetica gangetica) estimated using concurrent counts made by independent teams in waterways of the Sundarbans mangrove forest in Bangladesh",
             "link": "https://www.researchgate.net/publication/227724249_Abundance_of_Irrawaddy_dolphins_Orcaella_brevirostris_and_Ganges_River_dolphins_Plantanista_gangetica_gangetica_estimated_using_concurrent_counts_made_by_independent_teams_in_waterways_of_the_Sundarba",
             "category": "M"
+        },
+        {
+            "title": "Food and feeding activities of frugivore birds of the Chittagong University Campus",
+            "link": "https://www.researchgate.net/publication/303659669_Food_and_feeding_activities_of_frugivore_birds_of_the_Chittagong_University_Campus",
+            "category": "B"
         }
     ],
     "2004": [
@@ -3188,6 +3233,11 @@
             "title": "Ecology and conservation of the Bengal tiger in the Sundarbans mangrove forest of Bangladesh",
             "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=114pTqiGL3ELwNu63jF344VcJiPLf5mb88",
             "category": "M"
+        },
+        {
+            "title": "Ecology and Breeding Biology of Chestnut-tailed Starling, Sturnus malabaricus (Gmelin, 1789)",
+            "link": "https://www.researchgate.net/publication/385074829_Ecology_and_Breeding_Biology_of_Chestnut-tailed_Starling_Sturnus_malabaricus_Gmelin_1789",
+            "category": "B"
         }
     ],
     "2003": [
@@ -3249,6 +3299,11 @@
             "title": "A study on the loss of Bengal tiger (Panthera tigris) in five years (1996-2000) from Bangladesh Sundarbans",
             "link": "https://www.fao.org/3/ak881e/ak881e00.pdf#page=9",
             "category": "M"
+        },
+        {
+            "title": "Marine Turtle Nesting at St. Martin's Island, Bangladesh",
+            "link": "https://www.researchgate.net/publication/372823945_Marine_Turtle_Nesting_at_St_Martin's_Island_Bangladesh",
+            "category": "R"
         }
     ],
     "2001": [
@@ -3834,6 +3889,56 @@
             "title": "Unveiling the avian community structure, habitat preference, and conservation concerns in the sal forest of central bangladesh",
             "link": "https://journals.du.ac.bd/index.php/dujbio/article/view/89/67",
             "category": "B"
+        },
+        {
+            "title": "Hemidactylus frenatus (Common House Gecko) Diet",
+            "link": "https://www.researchgate.net/publication/383532478_Hemidactylus_frenatus_Common_House_Gecko_Diet",
+            "category": "R"
+        },
+        {
+            "title": "Predation on Asian Common Toad (Duttaphrynus melanostictus) by Bengal monitor lizard (Varanus) in National botanical garden, Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/74736",
+            "category": "RA"
+        },
+        {
+            "title": "Avian nematode parasites of some wild birds of Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/74725",
+            "category": "B"
+        },
+        {
+            "title": "What triggered the human-wildlife conflicts in Bangladesh between forest proximity people and wildlife? A responsive study",
+            "link": "https://brill.com/view/journals/ijee/70/3/article-p159_9.xml#:~:text=Reflecting%20upon%20the%20distressing%20situation%20of%20human-wildlife%20conflict,and%20the%20influence%20of%20national%20and%20global%20politics.",
+            "category": "M"
+        },
+        {
+            "title": "Mugger Crocodile Crocodylus palustris (Lesson, 1831) predation on Brown Fish Owl Ketupa zeylonensis (J.F. Gmelin, 1788), with notes on existing literature regarding their predation on birds",
+            "link": "https://threatenedtaxa.org/index.php/JoTT/article/view/9093",
+            "category": "RB"
+        },
+        {
+            "title": "PREDATION ON TOKAY GECKO (GECKO GECKO) AND COMMON HOUSE GECKO (HEMIDACTYLUS FRENATUS) BY ORNATE FLYING SNAKE (CHRYSOPELEA ORNATA) IN NORTHEASTERN BANGLADESH",
+            "link": "https://zenodo.org/records/13621808",
+            "category": "R"
+        },
+        {
+            "title": "Observations of Large-Toothed Ferret Badger (Melogale Personata) in Patharia Hill Reserve Forest at Northeast Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/77298",
+            "category": "M"
+        },
+        {
+            "title": "Courtship Behavior of Orange-Headed Thrush (Geokichla Citrina)",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/77301",
+            "category": "B"
+        },
+        {
+            "title": "Reassortment of newly emergent clade 2.3.4.4b A(H5N1) highly pathogenic avian influenza A viruses in Bangladesh",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/22221751.2024.2432351",
+            "category": "B"
+        },
+        {
+            "title": "Assessing the conservation status of and challenges facing Asiatic black bears and Malayan sun bears in Bangladesh",
+            "link": "https://www.cambridge.org/core/journals/oryx/article/assessing-the-conservation-status-of-and-challenges-facing-asiatic-black-bears-and-malayan-sun-bears-in-bangladesh/6E2E692927488C0383BC9783937C58A4",
+            "category": "M"
         }
     ],
     "1987": [
