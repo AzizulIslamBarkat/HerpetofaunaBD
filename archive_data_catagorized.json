@@ -3979,6 +3979,46 @@
             "title": "Migration of a GPS-tagged adult female Pallas's Fish Eagle Haliaeetus leucoryphus from Mongolia to Bangladesh, with notes on her breeding behaviour",
             "link": "https://www.orientalbirdclub.org/jao-40",
             "category": "B"
+        },
+        {
+            "title": "Population status of globally threatened primates in Rema-Kalenga Wildlife Sanctuary, Northeast Bangladesh",
+            "link": "https://www.researchgate.net/publication/387022633_Population_status_of_globally_threatened_primates_in_Rema-Kalenga_Wildlife_Sanctuary_Northeast_Bangladesh",
+            "category": "M"
+        },
+        {
+            "title": "A Centuries-Old Otter-Fishing Practice in Bangladesh: Going, Going, Gone?",
+            "link": "https://www.researchgate.net/publication/387371398_A_Centuries-Old_Otter-Fishing_Practice_in_Bangladesh_Going_Going_Gone",
+            "category": "M"
+        },
+        {
+            "title": "Heterogeneous habitat supports cryptic diversity of the terrestrial mammalian community in a protected forest of Bangladesh",
+            "link": "https://link.springer.com/article/10.1007/s42974-024-00219-0",
+            "category": "M"
+        },
+        {
+            "title": "Avifauna of Noakhali Science and Technology University premises and adjacent areas",
+            "link": "https://www.banglajol.info/index.php/JBAS/article/view/71659",
+            "category": "B"
+        },
+        {
+            "title": "Longitudinal Active Avian Influenza Surveillance in Bangladesh From 2017-2022 Reveals Differential IAV and H5 Infection and Viral Burden Associated With Bird Species, Sex, and Age",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1155/tbed/5569836",
+            "category": "B"
+        },
+        {
+            "title": "Impacts of Habitat Variation, Seasonality, and Human Threats on Avifauna in the Ganges Floodplain",
+            "link": "https://www.bioresearchcommunications.com/index.php/brc/article/view/286",
+            "category": "B"
+        },
+        {
+            "title": "Heterogeneous habitat supports cryptic diversity of the terrestrial mammalian community in a protected forest of Bangladesh",
+            "link": "https://link.springer.com/article/10.1007/s42974-024-00219-0",
+            "category": "M"
+        },
+        {
+            "title": "Reassortment of newly emergent clade 2.3.4.4b A(H5N1) highly pathogenic avian influenza A viruses in Bangladesh",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/22221751.2024.2432351",
+            "category": "B"
         }
     ],
     "1987": [
@@ -3986,6 +4026,13 @@
             "title": "Conservation of Storks and Other Waterbirds in Bangladesh",
             "link": "https://www.jstor.org/stable/1521262",
             "category": "B"
+        }
+    ],
+    "2025": [
+        {
+            "title": "New distribution record of Hipposideros grandis G.M. Allen, 1936, Grand Leaf-nosed Bat (Chiroptera, Hipposideridae), from Bangladesh based on morphometric and molecular evidence",
+            "link": "https://checklist.pensoft.net/article/132109/",
+            "category": "M"
         }
     ]
 }
