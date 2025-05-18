@@ -566,6 +566,11 @@
             "title": "Mammalian Species Diversity in Hazarikhil Wildlife Sanctuary of Bangladesh",
             "link": "https://bjfsbd.org/wp-content/uploads/2023/08/vol.37-2-article-6.pdf",
             "category": "M"
+        },
+        {
+            "title": "Parasitic infection in captive wild mammals and birds in Bangabandhu Sheikh Mujib Safari Park, Cox's Bazar, Bangladesh",
+            "link": "https://threatenedtaxa.org/index.php/JoTT/article/view/5682",
+            "category": "MB"
         }
     ],
     "2020": [
@@ -1695,6 +1700,11 @@
         {
             "title": "Elephants, Border Fence and Human-Elephant Conflict in Northern Bangladesh: Implications for Bilateral Collaboration towards Elephant Conservation",
             "link": "https://www.researchgate.net/publication/313600600_Elephants_Border_Fence_and_Human-Elephant_Conflict_in_Northern_Bangladesh_Implications_for_Bilateral_Collaboration_towards_Elephant_Conservation",
+            "category": "M"
+        },
+        {
+            "title": "Atlas : elephant routes and corridors in Bangladesh",
+            "link": "https://portals.iucn.org/library/node/46572",
             "category": "M"
         }
     ],
@@ -4019,6 +4029,26 @@
             "title": "Reassortment of newly emergent clade 2.3.4.4b A(H5N1) highly pathogenic avian influenza A viruses in Bangladesh",
             "link": "https://www.tandfonline.com/doi/full/10.1080/22221751.2024.2432351",
             "category": "B"
+        },
+        {
+            "title": "A case study on conflict intensity between humans and elephants at Teknaf Wildlife Sanctuary, Cox's Bazar, Bangladesh",
+            "link": "https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2023.1067045/full",
+            "category": "M"
+        },
+        {
+            "title": "IMPACT OF ROHINGYA INFLUX ON WILDLIFE AND SOCIETY IN TEKNAF PENINSULA IN COX'S BAZAR OF BANGLADESH",
+            "link": "http://reposit.library.du.ac.bd:8080/xmlui/handle/123456789/3183",
+            "category": "M"
+        },
+        {
+            "title": "Conservation of sea turtles on the beach areas from Sonadia Island to Saint Martin's Island in the Bay of Bengal in Bangladesh",
+            "link": "https://threatenedtaxa.org/index.php/JoTT/article/view/9194",
+            "category": "R"
+        },
+        {
+            "title": "Molecular identification of fruit bats, natural host of Nipah virus in Bangladesh, based on DNA barcode",
+            "link": "https://koreascience.kr/article/JAKO202422743249939.page",
+            "category": "M"
         }
     ],
     "1987": [
@@ -4032,6 +4062,106 @@
         {
             "title": "New distribution record of Hipposideros grandis G.M. Allen, 1936, Grand Leaf-nosed Bat (Chiroptera, Hipposideridae), from Bangladesh based on morphometric and molecular evidence",
             "link": "https://checklist.pensoft.net/article/132109/",
+            "category": "M"
+        },
+        {
+            "title": "The importance of non-economic reasons in the intention to kill small cats in Northeastern Bangladesh",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/10871209.2024.2449432?src=",
+            "category": "M"
+        },
+        {
+            "title": "Malayan porcupines in moonlight: Assessing nocturnal activity patterns, with a review of porcupine distributions in Bangladesh",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2351989425000873#:~:text=We%20found%20that%20Malayan%20porcupines,a%20potential%20anti%2Dpredator%20mechanism.",
+            "category": "M"
+        },
+        {
+            "title": "Three subspecies of Black-tailed Godwit share non-breeding sites in the world's largest river delta",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2053716625000052",
+            "category": "B"
+        },
+        {
+            "title": "Ecology and Conservation Issues of Avifauna in the Ganges Floodplain of Bangladesh",
+            "link": "https://www.springerprofessional.de/ecology-and-conservation-issues-of-avifauna-in-the-ganges-floodp/50657026",
+            "category": "B"
+        },
+        {
+            "title": "Live non-human primate trafficking in Bangladesh: A growing threat to the remaining populations",
+            "link": "https://www.scielo.br/j/zool/a/vCTcJDNYN7yKVTcnsLpB4fB/?lang=en",
+            "category": "M"
+        },
+        {
+            "title": "Community structure, threats and conservation issues of migratory birds in the south-central coastal area of Bangladesh",
+            "link": "https://www.banglajol.info/index.php/DUJBS/article/view/79868",
+            "category": "B"
+        },
+        {
+            "title": "Assessing the impact of Land Use Land Cover change after Rohingya forced migration on elephant route in Cox's Bazar district, Bangladesh",
+            "link": "https://link.springer.com/article/10.1007/s11355-025-00642-z",
+            "category": "M"
+        },
+        {
+            "title": "No country for small cats: Systematic analysis of media-reported incidents unravel a troubled scenario for the fishing cat Prionailurus viverrinus in Bangladesh",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2351989425001064",
+            "category": "M"
+        },
+        {
+            "title": "Diurnal predation on a Common House Rat (Rattus rattus) by a Spot-tailed Pitviper (Trimeresurus erythrurus) in northeastern Bangladesh",
+            "link": "https://journals.ku.edu/reptilesandamphibians/article/view/22658",
+            "category": "MR"
+        },
+        {
+            "title": "Breeding accounts of the Lesser adjutant (Leptoptilos javanicus) in Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/80781",
+            "category": "B"
+        },
+        {
+            "title": "Mammalian diversity and conservation in the mixed-evergreen forest of Baraiyadhala national park, Chattogram, Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/80787",
+            "category": "M"
+        },
+        {
+            "title": "Behavioural patterns of the Northern pig-tailed macaque (Macaca leonina) at the Chattogram zoo of Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/80793",
+            "category": "M"
+        },
+        {
+            "title": "Photographic evidences of Pygmy white-toothed shrew Suncus etruscus in Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/80794",
+            "category": "M"
+        },
+        {
+            "title": "Comparative Feeding Behavior of ducks and geese (Family: Anatidae) in Rajshahi division of Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/80795",
+            "category": "B"
+        },
+        {
+            "title": "Corpse carrying by a female Rhesus macaque (Macaca mulatta) in Madhupur national park, Bangladesh",
+            "link": "https://www.banglajol.info/index.php/BJZ/article/view/80796",
+            "category": "M"
+        },
+        {
+            "title": "Assessing tiger prey and factors influencing tiger abundance in the Sundarbans",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2351989425002136#fig0015",
+            "category": "M"
+        },
+        {
+            "title": "Breeding ecology of the Little Cormorant Microcarbo niger in northern Bangladesh",
+            "link": "https://indianbirds.in/vol-21-no-1/",
+            "category": "B"
+        },
+        {
+            "title": "Isabelline Wheatear Oenanthe isabellina for Bangladesh - A new species for the country",
+            "link": "https://indianbirds.in/vol-21-no-1/",
+            "category": "B"
+        },
+        {
+            "title": "OBSERVATION OF SWIMMING BEHAVIOR OF BENGAL SLOW LORIS Nycticebus bengalensis IN A SEMI-EVERGREEN FOREST",
+            "link": "http://www.primate-sg.org/asian_primates_11_1",
+            "category": "M"
+        },
+        {
+            "title": "First record of the round-eared tube-nosed bat Murina cyclotis Dobson, 1872 (Chiroptera: Vespertilionidae) from Bangladesh",
+            "link": "https://link.springer.com/article/10.1007/s13364-025-00798-x#:~:text=Here%20we%20document%20the%20first,set%20in%20a%20forest%20trail.",
             "category": "M"
         }
     ]
